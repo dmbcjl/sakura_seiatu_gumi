@@ -1,0 +1,1 @@
+import{_ as o,V as t,W as a,a1 as n,G as c}from"./framework-e4dbde6e.js";const s={};function _(l,r){const e=c("AutoCatalog");return t(),a("div",null,[n(e,{base:"/zh/anime/help/"})])}const f=o(s,[["render",_],["__file","RRADME.html.vue"]]);export{f as default};
