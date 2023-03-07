@@ -3,50 +3,54 @@
   <id>https://ssg.dmbcjx.com/zh/</id>
   <title>Sakura压制组</title>
   <subtitle>不断探索动漫与现实的联系</subtitle>
-  <updated>2023-02-05T13:35:27.299Z</updated>
+  <updated>2023-03-07T10:18:18.028Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://ssg.dmbcjx.com/zh/atom.xml"/>
   <link rel="alternate" href="https://ssg.dmbcjx.com/zh/"/>
   <category term="anime"/>
   <category term="potoforio"/>
-  <category term="shigen"/>
+  <entry>
+    <title type="text">声之形 聲の形</title>
+    <id>https://ssg.dmbcjx.com/zh/anime/list/26264454.html</id>
+    <link href="https://ssg.dmbcjx.com/zh/anime/list/26264454.html"/>
+    <updated>2023-03-07T10:18:18.459Z</updated>
+    <summary type="html"><![CDATA[<h1> 声之形 <code>聲の形</code></h1>
+<h2> 信息</h2>
+<h3> 海报</h3>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 声之形 <code>聲の形</code></h1>
+<h2> 信息</h2>
+<h3> 海报</h3>
+]]></content>
+    <category term="anime"/>
+    <published>2023-02-25T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">别当欧尼酱了！</title>
+    <id>https://ssg.dmbcjx.com/zh/potoforio/sakuhin/378862.html</id>
+    <link href="https://ssg.dmbcjx.com/zh/potoforio/sakuhin/378862.html"/>
+    <updated>2023-03-07T10:18:18.461Z</updated>
+    <summary type="html"><![CDATA[<h1> 别当欧尼酱了！</h1>
+<figure><img src="https://p.sda1.dev/9/7ae2ca7c63db662dfe9cd2a59adcb542/image.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 别当欧尼酱了！</h1>
+<figure><img src="https://p.sda1.dev/9/7ae2ca7c63db662dfe9cd2a59adcb542/image.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content>
+    <category term="potoforio"/>
+    <published>2023-02-25T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">利兹与青鸟 リズと青い鳥</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27062637.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27062637.html"/>
-    <updated>2023-02-05T13:35:28.681Z</updated>
+    <updated>2023-03-07T10:18:18.463Z</updated>
     <summary type="html"><![CDATA[<h1> 利兹与青鸟 <code>リズと青い鳥</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27062637.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2018-04-21<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 利兹与青鸟 <code>リズと青い鳥</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27062637.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2018-04-21<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt7089878</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>神啊 您为什么要教会我打开鸟笼的方法呢</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2023-02-05</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-02-05T00:00:00.000Z</published>
@@ -55,46 +59,14 @@
     <title type="text">朝花夕誓 さよならの朝に約束の花をかざろう</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27083561.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27083561.html"/>
-    <updated>2023-02-05T13:35:28.682Z</updated>
+    <updated>2023-03-07T10:18:18.465Z</updated>
     <summary type="html"><![CDATA[<h1> 朝花夕誓 <code>さよならの朝に約束の花をかざろう</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27083561.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 朝花夕誓 <code>さよならの朝に約束の花をかざろう</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27083561.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>本片设定在一个还保有古老传说的世界。伊欧夫人民住在远离尘嚣的土地，一边将每天的事情编织成名为“希比欧”的布，一边静静生活。他们在15岁左右外表就停止成长，拥有数百年寿命的他们，被称为“离别的一族”，并被视为活着的传说。</p>
-<p>没有双亲的伊欧夫少女玛琪亚，过着被伙伴包围的平稳日子，却总感觉“孤身一人”。某日，梅萨蒂军乘坐著名为雷纳特的古代兽发动了进攻，玛琪亚的同伴蕾莉亚被梅萨蒂带走，而玛琪亚暗恋的少年克里姆也失踪了。玛琪亚抓着失控的雷纳特到达外面的世界，因为与同伴分开而难过的同时，在一座帐棚里遇到刚失去双亲的婴儿。玛琪亚将他带走，并视之为自己的“<strong>希比欧</strong>”（“<strong>希比欧</strong>”亦译作“<strong>岁月锦</strong>”“<strong>希比奥尔</strong>”“<strong>昔日织</strong>”日语：<strong>ヒビオル</strong>。是一种包含伊欧夫人文字的布，在普通人的世界里，它作为一种有价值的纺织品被高价交易，玛琪亚和米多在一起时，曾把它作为生计来源。玛琪亚曾教导艾瑞尔如何编织。岁月锦不仅是精美绝伦的纺织品，更是伊欧夫人的日记和历史书，承载了他们漫长的一生，所以可以这么说：<strong>岁月锦是回忆的意思,代表着过往和记忆。</strong>）。</p>
-<p>玛琪亚来到乡下的一个村子，并被农场女主人米多收留。玛琪亚将婴儿取名为艾瑞尔，在米多、其子兰格与德雷尔的陪伴下，艾瑞尔度过了安稳的童年，且母子俩感情深刻。然而米多家的狗死去时，玛琪亚深切感受到身边的众人都会比自己早死，因而哭泣不止。最后她在心中立下约定，身为母亲是不可以掉眼泪的。</p>
-<p>与艾瑞尔相遇的第六年，玛琪亚得知蕾莉亚被迫成为梅萨蒂王子的王妃，以使王室血脉可以长寿。玛琪亚决定带着艾瑞尔一起远行至梅萨蒂，途中遇到打算劫走蕾莉亚的克里姆。然而蕾莉亚因为已经怀有身孕而放弃逃跑，悲伤的克里姆自行离去，玛琪亚不愿再给米多添麻烦，于是与艾瑞尔留在梅萨蒂。两人刚开始的生活非常艰苦，让玛琪亚怀疑自己不配当母亲。但年幼的艾瑞尔用织出的布，与玛琪亚约好他将来一定会守护她。</p>
-<p>又过了九年，随着长期倚仗的雷纳特渐渐凋零，梅萨蒂开始发展工业，艾瑞尔也长大成为叛逆期的少年。玛琪亚为了保密身份而得经常搬家，目前栖身于名叫多雷鲁的城市。艾瑞尔想要保护母亲但深感自身无力，最后请兰格推荐他成为骑士，之后便离开了玛琪亚独立生活。玛琪亚虽然希望艾瑞尔不要改变，但还是含着泪为他送行。另一方面，蕾莉亚的女儿并没有继承伊欧夫人的特征，蕾莉亚因此被冷落并软禁，无法见女儿，活得非常痛苦。</p>
-<p>梅萨蒂的邻国准备出兵讨伐梅萨蒂，克里姆将玛琪亚抓走并带到邻国，再次策划营救蕾莉亚的行动，希望让三人恢复从前的时光。六年后，邻国对梅萨蒂发起进攻，艾瑞尔是守城的士兵之一，然而家中的妻子蒂塔却在他离开后临盆。玛琪亚抵达梅萨蒂后正好遇到蒂塔，便帮助她分娩。最终梅萨蒂的城门被攻破，艾瑞尔等伤兵被俘虏并安置。玛琪亚去找艾瑞尔，将蒂塔的事告诉他后便离去，艾瑞尔企图留住母亲，但最后还是只能道别。另一方面，执著的克里姆到王宫欲带走蕾莉亚，但蕾莉亚想要见女儿，克里姆最终被士兵射杀。蕾莉亚到了顶楼，女儿却认不出她来。玛琪亚骑着仅存的一条雷纳特，接走了蕾莉亚，两人一起回到遥远的土地生活。</p>
-<p>又过了几十年，玛琪亚来到当初的村子，见来日无多的艾瑞尔。玛琪亚称赞艾瑞尔努力地过完一生，并与他道别。玛琪亚离开村子的路上，艾瑞尔一路陪伴的回忆涌上心头，让她再也遵守不了约定，放声哭泣。之后，她又继续前进，迎接下一个道别与邂逅。</p>
-<h3> Production company</h3>
-<p>P.A.Works</p>
-<h3> Time</h3>
-<p>2018-02-24<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt7339826</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-02-05</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-02-05T00:00:00.000Z</published>
@@ -103,42 +75,14 @@
     <title type="text">间谍过家家 Part 2 SPY×FAMILY 第2クール</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/35724582.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/35724582.html"/>
-    <updated>2023-02-05T13:35:28.687Z</updated>
+    <updated>2023-03-07T10:18:18.467Z</updated>
     <summary type="html"><![CDATA[<h1> 间谍过家家 Part 2 <code>SPY×FAMILY 第2クール</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35724582.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production Company</h3>
-<ul>
-<li>WIT STUDIO</li>
-<li>CloverWorks</li>
-</ul>
-<h3> Time</h3>
-<p>2022-10-01<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 间谍过家家 Part 2 <code>SPY×FAMILY 第2クール</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35724582.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production Company</h3>
-<ul>
-<li>WIT STUDIO</li>
-<li>CloverWorks</li>
-</ul>
-<h3> Time</h3>
-<p>2022-10-01<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt13706018</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-11-07</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-02-05T00:00:00.000Z</published>
@@ -147,41 +91,14 @@
     <title type="text">吹响吧！上低音号 第二季 響け！ユーフォニアム2</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26655961.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26655961.html"/>
-    <updated>2023-02-05T13:35:28.689Z</updated>
+    <updated>2023-03-07T10:18:18.469Z</updated>
     <summary type="html"><![CDATA[<h1> 吹响吧！上低音号 第二季 <code>響け！ユーフォニアム2</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26655961.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2016-10-05<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 吹响吧！上低音号 第二季 <code>響け！ユーフォニアム2</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26655961.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2016-10-05<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt5658070</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>于是，下一首曲子即将奏响！</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2023-01-19</li>
-<li>2023-02-04</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-02-04T00:00:00.000Z</published>
@@ -190,7 +107,7 @@
     <title type="text">PPFP Leaderboard</title>
     <id>https://ssg.dmbcjx.com/zh/anime/leaderboard.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/leaderboard.html"/>
-    <updated>2023-02-05T13:35:28.724Z</updated>
+    <updated>2023-03-07T10:18:18.470Z</updated>
     <summary type="html"><![CDATA[<h1> <code>PPFP</code> Leaderboard</h1>
 <div class="hint-container warning">
 <p class="hint-container-title">There is a possibility of error</p>
@@ -209,46 +126,14 @@
     <title type="text">夏日幻魂 サマーゴースト</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/35368245.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/35368245.html"/>
-    <updated>2023-02-05T13:35:28.726Z</updated>
+    <updated>2023-03-07T10:18:18.472Z</updated>
     <summary type="html"><![CDATA[<h1> 夏日幻魂 <code>サマーゴースト</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35368245.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<ul>
-<li>Flat Studio</li>
-<li>Flagship Line</li>
-</ul>
-<h3> Time</h3>
-<p>2021-11-12<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 夏日幻魂 <code>サマーゴースト</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35368245.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<ul>
-<li>Flat Studio</li>
-<li>Flagship Line</li>
-</ul>
-<h3> Time</h3>
-<p>2021-11-12<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt15052770</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>生命的终点即使友也的未来，亦是我的曾经</li>
-<li>只要振作起来 就会有新的机遇</li>
-<li>不过我坚信自己会痊愈，所以才活到了春天吧</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-02-02</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-02-03T00:00:00.000Z</published>
@@ -257,47 +142,14 @@
     <title type="text">Angel Beats! Angel Beats!</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/4202090.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/4202090.html"/>
-    <updated>2023-02-05T13:35:28.728Z</updated>
+    <updated>2023-03-07T10:18:18.474Z</updated>
     <summary type="html"><![CDATA[<h1> Angel Beats! <code>Angel Beats!</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/4202090.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> Angel Beats! <code>Angel Beats!</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/4202090.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>《Angel Beats!》故事发生在一所位于只有亡者与亡灵世界的大型高级中学，这个世界的存在目的是为了让没能快乐地度过青春的死亡青少年，能在这里消除他们内心中的负面情绪，进而得以走向来生或者下一场轮回；而消除负面情绪的方法，则是让这些青少年们重新体验高中生活。在这个世界里人们仍然必须像生前一般，为了维持生命而饮食和作息。尽管受到伤害时会感到疼痛，但不会因此而致死，而且过几分钟恢复。同时这个世界有一些虽然不是人类，但是外表与行为都和一般人无异的NPC；包括学校里的普通学生和老师都是NPC，其存在是为了让这所学校能有高中的氛围。</p>
-<p>对此主要角色仲村百合认为这里是一个由神掌管的“死后世界”，并且她与其他成员一同创立“死后世界战线”，其目的便是向给予自己人生残酷命运的“神”做出反抗。另外在故事中，死后世界战线辖下有两个部门负责协助作战。一个是由4名少女组成的“Girls Dead Monster”乐团。这只乐团表面上看起来像是普通的女子乐团，但是其目的是在死后世界战线从事其他任务活动时，转移普通学生、教师以及“天使”的注意力。另外一个团体叫做“公会”，这个部门主要工作是为死后世界战线提供与“天使”作战时所需的武器。其中公会成员可以用收集而来的“土块”，藉着生前的记忆大量生产武器装备。</p>
-<p>故事主要以音无结弦的视点进行，当他于学校路上苏醒后发现自己来到一个不同的世界，却也留意到自己疑似丧失过去记忆。此时遇见一名正蹲着拿着狙击步枪、名叫仲村百合的少女，她一开口就邀请音无加入“死后世界战线”，并且表示他们敌人即为担任学生会会长的“天使”。在一次行动成功后让“天使”失去会长位置，同时也得知“天使”真实姓名为立华奏。接任会长的前副会长直井文人一上任便对死后世界战线展开大规模的搜捕行动，甚至利用催眠的方式控制NPC角色发动攻势。最终音无成功阻止冲突并表示承认直井存在，之后直井加入死后世界战线。在直井催眠协助下音无恢复自己的记忆，想起自己过去的人生以及最后死亡的细节，决定与奏合作以帮助其他死后世界战线成员满足生前遗愿。在奏重新恢复学生会会长职位后，音无和奏合作帮助成员实现愿望。</p>
-<p>途中，出现系统bug，造成大量NPC“影化”，这更加坚定音无帮大家离开死后世界的决心。</p>
-<p>最后仍留在死后世界的音无、百合、奏、日向以及直井决定举行毕业典礼并相互感谢对方的支持与帮助。随着毕业典礼的尾声直井、百合和日向一一消失，在故事最后音无得知奏的遗憾是未能感谢捐赠给她心脏的人，而那颗心脏便是音无逝世后所捐赠的。奏向音无感谢他的帮助并消失，已爱上奏的音无则不断地哭泣。动画最后内容描写两人投胎转世后似乎又再度重逢。</p>
-<h3> Production company</h3>
-<p>P.A. Works</p>
-<h3> Time</h3>
-<p>2010-04-02<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt1639109</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>音无结弦之时，悦动天使之心。立于浮华之世，奏响天籁之音。</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-02-01</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-02-02T00:00:00.000Z</published>
@@ -306,7 +158,7 @@
     <title type="text">CLANNAD ～AFTER STORY～ クラナド アフターストーリー</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/3230813.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/3230813.html"/>
-    <updated>2023-02-05T13:35:28.730Z</updated>
+    <updated>2023-03-07T10:18:18.476Z</updated>
     <summary type="html"><![CDATA[<h1> CLANNAD ～AFTER STORY～ <code>クラナド アフターストーリー</code></h1>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -314,7 +166,7 @@
 </div>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/3230813.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> CLANNAD ～AFTER STORY～ <code>クラナド アフターストーリー</code></h1>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -322,81 +174,22 @@
 </div>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/3230813.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2008-10-02<code>JP</code></p>
-<h3> Episodes</h3>
-<p>22集</p>
-<h3> IMDB</h3>
-<p><code>tt1298820</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>恋爱就像遥远往昔燃起的烟火 闪耀后散落遇愈显美丽啊</li>
-<li>能哭的地方，只有洗手间，还有爸爸怀里</li>
-<li>叛逆的少年郎终究和父亲达成和解，樱花树下的海岸终究和花田里的潮汐汇成了古河</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2023-01-27</li>
-<li>2023-01-30</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
-    <published>2023-02-01T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">别当欧尼酱了！</title>
-    <id>https://ssg.dmbcjx.com/zh/potoforio/sakuhin/378862.html</id>
-    <link href="https://ssg.dmbcjx.com/zh/potoforio/sakuhin/378862.html"/>
-    <updated>2023-02-05T13:35:28.732Z</updated>
-    <summary type="html"><![CDATA[<h1> 别当欧尼酱了！</h1>
-<figure><img src="https://p.sda1.dev/9/7ae2ca7c63db662dfe9cd2a59adcb542/image.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 别当欧尼酱了！</h1>
-<figure><img src="https://p.sda1.dev/9/7ae2ca7c63db662dfe9cd2a59adcb542/image.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></content>
-    <category term="potoforio"/>
     <published>2023-02-01T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">剧场版魔法少女小圆 前篇 起始的故事 劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/10174444.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/10174444.html"/>
-    <updated>2023-02-05T13:35:28.734Z</updated>
+    <updated>2023-03-07T10:18:18.478Z</updated>
     <summary type="html"><![CDATA[<h1> 剧场版魔法少女小圆 前篇 起始的故事 <code>劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/10174444.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>SHAFT</p>
-<h3> Time</h3>
-<p>2012-10-06<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 剧场版魔法少女小圆 前篇 起始的故事 <code>劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/10174444.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>SHAFT</p>
-<h3> Time</h3>
-<p>2012-10-06<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt2205948</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-11</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -405,51 +198,14 @@
     <title type="text">来自新世界 新世界より</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/10527275.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/10527275.html"/>
-    <updated>2023-02-05T13:35:28.736Z</updated>
+    <updated>2023-03-07T10:18:18.480Z</updated>
     <summary type="html"><![CDATA[<h1> 来自新世界 <code>新世界より</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/10527275.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 来自新世界 <code>新世界より</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/10527275.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>主角渡边早季5人小组在野营中抓到国立国会图书馆筑波分馆自发进化型SE-778Hλ（拟蓑白），拷问拟蓑白后得知人类屠杀人类的黑历史、愧死机构等规则。得知2011年人类获得超能力（咒力）后，超能力者能轻易毁灭一座城市，热兵器无法抵抗他们，导致世界人口剩下2%，经过了五百多年的暗黑时代，东北亚分成4种集团：<strong>超能力者统治普通人的奴隶王朝</strong>、<strong>普通人组织的狩猎逃亡集团</strong>、<strong>移动型超能力者掠夺集团</strong>、<strong>继承科学技术的超能力者集团</strong>。超能力王朝暴君被刺杀，新世界的日本尚存6万名继承科学技术的超能力者集团，以基因改造产生愧死维持社会和平，并将普通人改造成化鼠排除出愧死反应的对象。</p>
-<p>后来伊东守因咒力太弱被教育委员会下令处死，伊东守击退不净猫后逃亡，秋月真理亚随其叛逃，伦理委员会议长朝比奈富子下令渡边早季与朝比奈觉3天内追回2人可不追究，否则将通报各町及化鼠部落追杀。两人因感情徇私，伙同食虫虻化鼠部落领袖斯奎拉谎称叛逃的两人被雪崩埋入山谷。</p>
-<p>数年后食虫虻部落扩张势力与奇狼丸率领的大黄蜂部族交战，斯奎拉驱使伊东守的孩子用咒力防御大黄蜂部族攻击，大黄蜂军队战败，仅剩首领奇狼丸脱逃，神栖66町议会中决议派出5人死神小组抹杀食虫虻部落及其同盟，食虫虻部落早有防备，死神小组中只有干先生幸存。渡边早季的母亲渡边瑞穗与丈夫返回町中学校放出不净猫、烧毁图书馆后遇害；渡边早季与朝比奈觉逃至清净寺取得母亲遗书及国会图书馆筑波分馆终端008号（太阳能型），清净寺随后被攻破焚毁。</p>
-<p>渡边早季、朝比奈觉、奇狼丸、干先生四人前往东京找寻能杀死伊东守孩子的生化武器（炭疽杆菌），斯奎拉率领伪恶鬼与5只化鼠追踪，四人躲至地道后兵分两路，朝比奈觉、奇狼丸引开斯奎拉，渡边早季、干先生由地下运河至生化研究所，而后干先生被大鬼矶女杀死，渡边早季在生化研究所中找到生化武器，回地表与众人会合。战斗中，朝比奈觉抛出生化武器，由于渡边早季不想让唯一的亲友死亡，将空中的炭疽杆菌粉末烧毁引发尘爆，奇狼丸以放过大黄蜂部族女王为条件，穿上人类的衣服让伪恶鬼用咒力杀死，因伪恶鬼认为自己是化鼠，杀死同为化鼠的奇狼丸触发愧死机构死亡。事件后斯奎拉被施加永久性极端痛苦的惩罚。</p>
-<p>后来朝比奈觉发现化鼠的学名〈<em>Homo cephals Glaber</em>〉像是人类与裸鼹鼠组成的，而伦理委员会规定禁止对化鼠的基因进行研究分析，但朝比奈觉仍发现化鼠的染色体有23对与人类相同。两人讨论后，渡边早季烧毁斯奎拉，中止惩罚。最后渡边早季与朝比奈觉结婚，两人一起努力改变“将孩子当作恐怖因子”的社会。</p>
-<h3> Production company</h3>
-<p>A-1 Pictures</p>
-<h3> Time</h3>
-<p>2012-09-28<code>JP</code></p>
-<h3> Episodes</h3>
-<p>25集</p>
-<h3> IMDB</h3>
-<p><code>tt2309320</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>新的秩序，要经过无数鲜血浇灌之后，才能诞生。</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2020-08-21</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -458,35 +214,14 @@
     <title type="text">剧场版魔法少女小圆 后篇 永远的故事 劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/10569150.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/10569150.html"/>
-    <updated>2023-02-05T13:35:28.738Z</updated>
+    <updated>2023-03-07T10:18:18.482Z</updated>
     <summary type="html"><![CDATA[<h1> 剧场版魔法少女小圆 后篇 永远的故事 <code>劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/10569150.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>SHAFT</p>
-<h3> Time</h3>
-<p>2012-10-13<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 剧场版魔法少女小圆 后篇 永远的故事 <code>劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/10569150.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>SHAFT</p>
-<h3> Time</h3>
-<p>2012-10-13<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt2194724</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-11</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -495,35 +230,14 @@
     <title type="text">剧场版魔法少女小圆 后篇 永远的故事 劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/10569151.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/10569151.html"/>
-    <updated>2023-02-05T13:35:28.740Z</updated>
+    <updated>2023-03-07T10:18:18.484Z</updated>
     <summary type="html"><![CDATA[<h1> 剧场版魔法少女小圆 后篇 永远的故事 <code>劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/10569151.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>SHAFT</p>
-<h3> Time</h3>
-<p>2013-10-26<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 剧场版魔法少女小圆 后篇 永远的故事 <code>劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/10569151.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>SHAFT</p>
-<h3> Time</h3>
-<p>2013-10-26<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt2457282</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-12</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -532,35 +246,14 @@
     <title type="text">魔法禁书目录 剧场版 恩底弥翁的奇迹 とある魔術の禁書目録 エンデュミオンの奇蹟。</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/10788833.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/10788833.html"/>
-    <updated>2023-02-05T13:35:28.742Z</updated>
+    <updated>2023-03-07T10:18:18.486Z</updated>
     <summary type="html"><![CDATA[<h1> 魔法禁书目录 剧场版 恩底弥翁的奇迹 <code>とある魔術の禁書目録 エンデュミオンの奇蹟。</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/10788833.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2013-02-23<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 魔法禁书目录 剧场版 恩底弥翁的奇迹 <code>とある魔術の禁書目録 エンデュミオンの奇蹟。</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/10788833.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2013-02-23<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt3163844</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-12-19</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -569,40 +262,14 @@
     <title type="text">中二病也要谈恋爱！ 中二病でも恋がしたい！</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/11226092.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/11226092.html"/>
-    <updated>2023-02-05T13:35:28.751Z</updated>
+    <updated>2023-03-07T10:18:18.489Z</updated>
     <summary type="html"><![CDATA[<h1> 中二病也要谈恋爱！ <code>中二病でも恋がしたい！</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/11226092.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2012-10-03<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 中二病也要谈恋爱！ <code>中二病でも恋がしたい！</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/11226092.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2012-10-03<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt2321542</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-08-16</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -611,41 +278,14 @@
     <title type="text">境界的彼方 境界の彼方</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/11226094.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/11226094.html"/>
-    <updated>2023-02-05T13:35:28.752Z</updated>
+    <updated>2023-03-07T10:18:18.491Z</updated>
     <summary type="html"><![CDATA[<h1> 境界的彼方 <code>境界の彼方</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/11226094.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2013-10-02<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 境界的彼方 <code>境界の彼方</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/11226094.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2013-10-02<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt3114376</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>没有未来的未来</li>
-<li>不是我想要的未来！</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-12-27</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -654,37 +294,14 @@
     <title type="text">奇诺之旅 キノの旅 -the Beautiful World-</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/1512037.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/1512037.html"/>
-    <updated>2023-02-05T13:35:28.754Z</updated>
+    <updated>2023-03-07T10:18:18.493Z</updated>
     <summary type="html"><![CDATA[<h1> 奇诺之旅 <code>キノの旅 -the Beautiful World-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/1512037.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>A.C.G.T.</p>
-<h3> Time</h3>
-<p>2003-04-08<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 奇诺之旅 <code>キノの旅 -the Beautiful World-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/1512037.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>A.C.G.T.</p>
-<h3> Time</h3>
-<p>2003-04-08<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt0433498</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-07-26</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -693,35 +310,14 @@
     <title type="text">奇诺之旅：活着的目标 -life goes on.- キノの旅 何かをするために -life goes on.-</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/1868515.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/1868515.html"/>
-    <updated>2023-02-05T13:35:28.759Z</updated>
+    <updated>2023-03-07T10:18:18.495Z</updated>
     <summary type="html"><![CDATA[<h1> 奇诺之旅：活着的目标 -life goes on.- <code>キノの旅 何かをするために -life goes on.-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/1868515.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>A.C.G.T</p>
-<h3> Time</h3>
-<p>2005-02-19<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 奇诺之旅：活着的目标 -life goes on.- <code>キノの旅 何かをするために -life goes on.-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/1868515.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>A.C.G.T</p>
-<h3> Time</h3>
-<p>2005-02-19<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt0471767</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-07-27</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -730,41 +326,14 @@
     <title type="text">某科学的超电磁炮S とある科学の超電磁砲S</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/20266747.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/20266747.html"/>
-    <updated>2023-02-05T13:35:28.770Z</updated>
+    <updated>2023-03-07T10:18:18.496Z</updated>
     <summary type="html"><![CDATA[<h1> 某科学的超电磁炮S <code>とある科学の超電磁砲S</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/20266747.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2013-04-12<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 某科学的超电磁炮S <code>とある科学の超電磁砲S</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/20266747.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2013-04-12<code>JP</code></p>
-<h3> Episodes</h3>
-<p>24集</p>
-<h3> IMDB</h3>
-<p><code>tt1515996</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>你指尖跃动的电光，是我此生不灭的信仰，唯我超电磁炮永世长存！</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2022-12-06</li>
-<li>Unknown</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -773,39 +342,14 @@
     <title type="text">中二病也要谈恋爱！ Lite 中二病でも恋がしたい！ Lite</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/20285251.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/20285251.html"/>
-    <updated>2023-02-05T13:35:28.771Z</updated>
+    <updated>2023-03-07T10:18:18.498Z</updated>
     <summary type="html"><![CDATA[<h1> 中二病也要谈恋爱！ Lite <code>中二病でも恋がしたい！ Lite</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/20285251.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2014-01-08<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 中二病也要谈恋爱！ Lite <code>中二病でも恋がしたい！ Lite</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/20285251.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2014-01-08<code>JP</code></p>
-<h3> Episodes</h3>
-<p>6集</p>
-<h3> IMDB</h3>
-<p><code>tt3380844</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-08-19</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -814,36 +358,14 @@
     <title type="text">奇诺之旅：疾病之国 -For You- キノの旅 病気の国 -For You-</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/2043171.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/2043171.html"/>
-    <updated>2023-02-05T13:35:28.782Z</updated>
+    <updated>2023-03-07T10:18:18.500Z</updated>
     <summary type="html"><![CDATA[<h1> 奇诺之旅：疾病之国 -For You- <code>キノの旅 病気の国 -For You-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/2043171.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>SHAFT</p>
-<h3> Time</h3>
-<p>2007-04-21<code>JP</code></p>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 奇诺之旅：疾病之国 -For You- <code>キノの旅 病気の国 -For You-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/2043171.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>SHAFT</p>
-<h3> Time</h3>
-<p>2007-04-21<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt0994793</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-07-27</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -852,37 +374,14 @@
     <title type="text">玉子市场 たまこまーけっと</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/20514713.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/20514713.html"/>
-    <updated>2023-02-05T13:35:28.786Z</updated>
+    <updated>2023-03-07T10:18:18.501Z</updated>
     <summary type="html"><![CDATA[<h1> 玉子市场 <code>たまこまーけっと</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/20514713.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2013-01-09<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 玉子市场 <code>たまこまーけっと</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/20514713.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2013-01-09<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt2560604</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-13</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -891,37 +390,14 @@
     <title type="text">CLANNAD CLANNAD -クラナド-</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/2277181.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/2277181.html"/>
-    <updated>2023-02-05T13:35:28.788Z</updated>
+    <updated>2023-03-07T10:18:18.503Z</updated>
     <summary type="html"><![CDATA[<h1> CLANNAD <code>CLANNAD -クラナド-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/2277181.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2007-10-04<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> CLANNAD <code>CLANNAD -クラナド-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/2277181.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2007-10-04<code>JP</code></p>
-<h3> Episodes</h3>
-<p>22集</p>
-<h3> IMDB</h3>
-<p><code>tt1118804</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-25</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -930,40 +406,14 @@
     <title type="text">中二病也要谈恋爱！恋 中二病でも恋がしたい！戀</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/24532217.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/24532217.html"/>
-    <updated>2023-02-05T13:35:28.795Z</updated>
+    <updated>2023-03-07T10:18:18.505Z</updated>
     <summary type="html"><![CDATA[<h1> 中二病也要谈恋爱！恋 <code>中二病でも恋がしたい！戀</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/24532217.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2014-01-08<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 中二病也要谈恋爱！恋 <code>中二病でも恋がしたい！戀</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/24532217.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2014-01-08<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt3380844</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-08-19</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -972,41 +422,14 @@
     <title type="text">魔法科高校的劣等生 魔法科高校の劣等生</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/25741564.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/25741564.html"/>
-    <updated>2023-02-05T13:35:28.796Z</updated>
+    <updated>2023-03-07T10:18:18.507Z</updated>
     <summary type="html"><![CDATA[<h1> 魔法科高校的劣等生 <code>魔法科高校の劣等生</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25741564.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>MADHOUSE</p>
-<h3> Time</h3>
-<p>2014-04-05<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 魔法科高校的劣等生 <code>魔法科高校の劣等生</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25741564.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>MADHOUSE</p>
-<h3> Time</h3>
-<p>2014-04-05<code>JP</code></p>
-<h3> Episodes</h3>
-<p>26集</p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt3874528</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-01-24</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1015,36 +438,14 @@
     <title type="text">玉子爱情故事 たまこラブストーリー</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/25796222.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/25796222.html"/>
-    <updated>2023-02-05T13:35:28.802Z</updated>
+    <updated>2023-03-07T10:18:18.509Z</updated>
     <summary type="html"><![CDATA[<h1> 玉子爱情故事 <code>たまこラブストーリー</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25796222.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2014-04-26<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 玉子爱情故事 <code>たまこラブストーリー</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25796222.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2014-04-26<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt3413018</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-14</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1053,45 +454,14 @@
     <title type="text">天体的秩序 天体のメソッド</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/25848280.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/25848280.html"/>
-    <updated>2023-02-05T13:35:28.804Z</updated>
+    <updated>2023-03-07T10:18:18.511Z</updated>
     <summary type="html"><![CDATA[<h1> 天体的秩序 <code>天体のメソッド</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25848280.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 天体的秩序 <code>天体のメソッド</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25848280.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>某日雾弥湖的上空中出现谜样的圆盘，一度造成全世界的混乱与恐慌，但飞碟却只停留在空中，并没有进一步的行动。随着时间流逝，人们渐渐对这件事失去了兴趣……就在两名少女相遇后，静止的时间再次流动，让众人有所改变的全新故事展开，中学生活最后那一年，将拥有一生无法忘怀的回忆。</p>
-<p>剧中虚构的雾弥湖是以北海道著名的观光名胜洞爷湖为原型。</p>
-<h3> Production company</h3>
-<p>3Hz</p>
-<h3> Time</h3>
-<p>2014-10-05<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt3895144</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>能再次露出笑脸，那就是大家的愿望。</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-12-25</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1100,49 +470,14 @@
     <title type="text">四月是你的谎言 四月は君の嘘</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/25851655.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/25851655.html"/>
-    <updated>2023-02-05T13:35:28.807Z</updated>
+    <updated>2023-03-07T10:18:18.512Z</updated>
     <summary type="html"><![CDATA[<h1> 四月是你的谎言 <code>四月は君の嘘</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25851655.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 四月是你的谎言 <code>四月は君の嘘</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25851655.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>有马公生自小接受母亲严格的钢琴训练，以按照乐谱精准弹奏的能力在各项音乐比赛中获胜，被人称作“神童”（动画作品内，亦被人嘲讽为“妈妈的傀儡”、“人体节拍器”、“演奏机”、“钢琴比机器”）。然而11岁时母亲病逝，加上自身对弹奏的迷惘，陷入听不见钢琴声音的心理障碍，选择放弃钢琴弹奏。</p>
-<p>国中三年级时，某一天在青梅竹马椿的介绍下，认识同年级的小提琴手——宫园薰，并于一场合奏的音乐比赛中被薰自由奔放的演奏风格所吸引，自此心境与日常生活开始转变。</p>
-<h3> Production company</h3>
-<p>A-1 Pictures</p>
-<h3> Time</h3>
-<p>2014-10-10<code>JP</code></p>
-<h3> Episodes</h3>
-<p>22集</p>
-<h3> IMDB</h3>
-<p><code>tt3895150</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>我喜欢了你十年，却用整个四月，编织了一个我不爱你的谎言。</li>
-<li>奏响空灵的琴音，传递爱的语言，诉说四月谎言，只为你的回眸。</li>
-<li>一曲终了，繁华散尽，伊人已逝，只余一声空叹</li>
-<li>你的所言所行，全都闪烁着光太过刺目，于是我闭上双眼但内心还是无法停止对你的憧憬</li>
-<li>入梦落樱满薰香，醒时犹记四月谎</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-23</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1151,34 +486,14 @@
     <title type="text">CLANNAD ～AFTER STORY～ 番外篇：一年前的事 CLANNAD 〜AFTER STORY〜 番外編 一年前の出来事</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/25909237.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/25909237.html"/>
-    <updated>2023-02-05T13:35:28.809Z</updated>
+    <updated>2023-03-07T10:18:18.514Z</updated>
     <summary type="html"><![CDATA[<h1> CLANNAD ～AFTER STORY～ 番外篇：一年前的事 <code>CLANNAD 〜AFTER STORY〜 番外編 一年前の出来事</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25909237.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> CLANNAD ～AFTER STORY～ 番外篇：一年前的事 <code>CLANNAD 〜AFTER STORY〜 番外編 一年前の出来事</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25909237.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2009-03-19<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt1395362</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-29</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1187,38 +502,14 @@
     <title type="text">学园孤岛 がっこうぐらし！</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/25911592.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/25911592.html"/>
-    <updated>2023-02-05T13:35:28.811Z</updated>
+    <updated>2023-03-07T10:18:18.516Z</updated>
     <summary type="html"><![CDATA[<h1> 学园孤岛 <code>がっこうぐらし！</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25911592.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Lerche</p>
-<h3> Time</h3>
-<p>2015-07-09<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 学园孤岛 <code>がっこうぐらし！</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25911592.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Lerche</p>
-<h3> Time</h3>
-<p>2015-07-09<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt5105452</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-07</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1227,37 +518,14 @@
     <title type="text">结城友奈是勇者 結城友奈は勇者である</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/25937952.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/25937952.html"/>
-    <updated>2023-02-05T13:35:28.814Z</updated>
+    <updated>2023-03-07T10:18:18.526Z</updated>
     <summary type="html"><![CDATA[<h1> 结城友奈是勇者 <code>結城友奈は勇者である</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25937952.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Studio Gokumi</p>
-<h3> Time</h3>
-<p>2014-10-17<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 结城友奈是勇者 <code>結城友奈は勇者である</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/25937952.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Studio Gokumi</p>
-<h3> Time</h3>
-<p>2014-10-17<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt3981902</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-08</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1266,45 +534,14 @@
     <title type="text">可塑性记忆 プラスティック･メモリーズ</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26035165.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26035165.html"/>
-    <updated>2023-02-05T13:35:28.817Z</updated>
+    <updated>2023-03-07T10:18:18.528Z</updated>
     <summary type="html"><![CDATA[<h1> 可塑性记忆 <code>プラスティック･メモリーズ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26035165.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 可塑性记忆 <code>プラスティック･メモリーズ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26035165.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>主角水柿司生活在一个使用机器人已为常态的时代。大学考试落榜后，他在父母利用关系下进入了专门制造并管理仿真机器人“GIFTIA”的大公司“SAI社”工作。而他所被分配到的部门是专门负责将到达使用期限的机器人报废的“终端服务课”。在那里，他遇见了不常显露感情的机器人艾拉，并跟她组成搭档。</p>
-<h3> Production company</h3>
-<p>Doga Kobo</p>
-<h3> Time</h3>
-<p>2015-04-05<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt4603222</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>时光流转，愿你与珍爱之人能够再度重逢。</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-12-06</li>
-<li>Unknown</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1313,42 +550,14 @@
     <title type="text">吹响吧！上低音号 響け！ユーフォニアム</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26169716.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26169716.html"/>
-    <updated>2023-02-05T13:35:28.818Z</updated>
+    <updated>2023-03-07T10:18:18.530Z</updated>
     <summary type="html"><![CDATA[<h1> 吹响吧！上低音号 <code>響け！ユーフォニアム</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26169716.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2015-04-07<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 吹响吧！上低音号 <code>響け！ユーフォニアム</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26169716.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2015-04-07<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt4384306</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>于是，下一首曲子即将奏响！</li>
-<li>没关系，到时候我陪你一起做坏人</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2023-01-18</li>
-<li>2023-02-03</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1357,33 +566,14 @@
     <title type="text">四月是你的谎言OAD：MOMENTS 四月は君の嘘 OAD MOMENTS</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26235257.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26235257.html"/>
-    <updated>2023-02-05T13:35:28.820Z</updated>
+    <updated>2023-03-07T10:18:18.531Z</updated>
     <summary type="html"><![CDATA[<h1> 四月是你的谎言OAD：MOMENTS <code>四月は君の嘘 OAD MOMENTS</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26235257.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2015-05-15<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<h2> More</h2>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 四月是你的谎言OAD：MOMENTS <code>四月は君の嘘 OAD MOMENTS</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26235257.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2015-05-15<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-23</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1392,39 +582,14 @@
     <title type="text">境界的彼方 剧场版 未来篇 劇場版 境界の彼方 I’LL BE HERE 未来篇</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26273481.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26273481.html"/>
-    <updated>2023-02-05T13:35:28.822Z</updated>
+    <updated>2023-03-07T10:18:18.533Z</updated>
     <summary type="html"><![CDATA[<h1> 境界的彼方 剧场版 未来篇 <code>劇場版 境界の彼方 I’LL BE HERE 未来篇</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26273481.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2015-04-25<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 境界的彼方 剧场版 未来篇 <code>劇場版 境界の彼方 I’LL BE HERE 未来篇</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26273481.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2015-04-25<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt4539114</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>没有未来的未来</li>
-<li>不是我想要的未来！</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-12-28</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1433,37 +598,14 @@
     <title type="text">干物妹！小埋 干物妹! うまるちゃん</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26282460.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26282460.html"/>
-    <updated>2023-02-05T13:35:28.835Z</updated>
+    <updated>2023-03-07T10:18:18.534Z</updated>
     <summary type="html"><![CDATA[<h1> 干物妹！小埋 <code>干物妹! うまるちゃん</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26282460.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Doga Kobo</p>
-<h3> Time</h3>
-<p>2015-07-08<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 干物妹！小埋 <code>干物妹! うまるちゃん</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26282460.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Doga Kobo</p>
-<h3> Time</h3>
-<p>2015-07-08<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt5059866</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-12-03</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1472,44 +614,14 @@
     <title type="text">夏洛特 Charlotte（シャーロット）</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26287800.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26287800.html"/>
-    <updated>2023-02-05T13:35:28.838Z</updated>
+    <updated>2023-03-07T10:18:18.537Z</updated>
     <summary type="html"><![CDATA[<h1> 夏洛特 <code>Charlotte（シャーロット）</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26287800.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 夏洛特 <code>Charlotte（シャーロット）</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26287800.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>这是一个青春期少年少女身上会随时引发特殊能力的世界，而主角乙坂有宇就是一名能够控制他人身体5秒的少年，且恶意利用这种能力获得优等生的生活。但是，他的行为被来自星之海学园学生会的友利奈绪和高城丈士朗揭发，乙坂有宇和妹妹乙坂步未自此被逼转校至星之海学园，与奈绪一同去查找并保护其他不受学园管辖、甚至滥用能力的能力者，并和同为学生会成员的人气偶像西森柚咲过着奇妙快乐的日子。</p>
-<p>然而有一天，妹妹乙坂步未发动她的特殊能力“崩坏”后意外死亡，使有宇大受打击而开始自暴自弃的生活，直至友利的出现才得以重新振作。在有宇恢复正常生活后，友利带他出席一场演唱会，期间有宇却突然昏迷。有宇昏迷期间不仅找回了自己对拥有“时空跨越”能力的哥哥 —— 乙坂隼翼的记忆，还知道了自己真正的特殊能力其实是能够夺取他人特殊能力的“掠夺”。</p>
-<p>有宇苏醒后跟隼翼再会，应隼翼的要求，夺取了他的“时空跨越”能力，成功回到过去拯救了步未，同时获知“时间倒流”的能力会使人视力逐渐降低直至失明。不过正当各人以为能重新过正常生活的时候，有宇遭到了海外恐怖组织的袭击，失去了右眼。有宇为了根除问题，决意走遍世界、夺取世上所有特殊能力者的能力。在启程前，友利与有宇约定“归来后便成恋人”。</p>
-<p>有宇在海外不断夺取他人的能力，化成了怪物般的存在，但夺取如此多能力的副作用是令有宇在完成任务后失去了所有记忆。再会后，友利向失忆的有宇自白，承认了自己是他的恋人，并跟他约定从此要过上幸福的生活。</p>
-<h3> Production company</h3>
-<p>P.A. Works</p>
-<h3> Time</h3>
-<p>2015-07-05<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt15296306</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-24</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1518,33 +630,14 @@
     <title type="text">夏洛特 特别篇（第14话） Charlotte(シャーロット) 特別篇 強い者たち</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26606686.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26606686.html"/>
-    <updated>2023-02-05T13:35:28.847Z</updated>
+    <updated>2023-03-07T10:18:18.539Z</updated>
     <summary type="html"><![CDATA[<h1> 夏洛特 特别篇（第14话） <code>Charlotte(シャーロット) 特別篇 強い者たち</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26606686.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2016-03-23<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<h2> More</h2>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 夏洛特 特别篇（第14话） <code>Charlotte(シャーロット) 特別篇 強い者たち</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26606686.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2016-03-23<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-24</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1553,35 +646,14 @@
     <title type="text">吹响吧！上低音号～欢迎来到北宇治高中吹奏乐部～ 劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26655962.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26655962.html"/>
-    <updated>2023-02-05T13:35:28.851Z</updated>
+    <updated>2023-03-07T10:18:18.541Z</updated>
     <summary type="html"><![CDATA[<h1> 吹响吧！上低音号～欢迎来到北宇治高中吹奏乐部～ <code>劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26655962.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2016-04-23<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 吹响吧！上低音号～欢迎来到北宇治高中吹奏乐部～ <code>劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26655962.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2016-04-23<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt5688888</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-20</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1590,52 +662,14 @@
     <title type="text">你的名字。 君の名は。</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26683290.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26683290.html"/>
-    <updated>2023-02-05T13:35:28.861Z</updated>
+    <updated>2023-03-07T10:18:18.543Z</updated>
     <summary type="html"><![CDATA[<h1> 你的名字。 <code>君の名は。</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26683290.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 你的名字。 <code>君の名は。</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26683290.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>迪亚马特彗星（ティアマト彗星）每逢1200年造访地球，在深山小镇糸守町（糸守町／いともりまち Itomori machi中家族世代经营镇内“宫水神社”的高中少女<strong>宫水三叶</strong>、以及东京四谷的高中少年<strong>立花泷</strong>，从某天开始，在睡觉的时候，就会灵魂互换，醒来什么都不记得，感觉像做了奇妙的梦，但周围的人会讲出他们昨天有违平常。他俩很快意识到这种情形，困惑之中开始在彼此手机留言，逐渐地变得习惯于身体切换，并干预对方的生活。三叶不仅乐于所向往的东京生活，也利用女人心这点，帮助泷更接近其打工的美女前辈奥寺，促成与她约会；而泷以阳刚的形象，帮助柔弱的三叶在她的学校更受欢迎，双方逐渐对彼此有好感。</p>
-<p>有次三叶（泷）和妹妹四叶、外祖母一起徒步至宫水神社位在镇外山上的“御神体”，途中外祖母告诉她们：“产灵”、“结”都可以连结人与时间，在本质上是相同的，因此宫水家族的历代巫女都编织结绳来体现，水酒等进入人体也能和时间形成连结。三人参拜位于破火山口型洼地隐世（隠り世／かくりよ <sup>Kakuriyo</sup>）上的御神体，并以口嚼酒为半身献祭。回程时当三叶（泷）和妹妹四叶、外祖母在观看糸守湖的夕阳时，外祖母对三叶（泷）说：“你是不是在做梦？”，泷听完后从床上惊醒起来，并发觉自己在流泪。</p>
-<p>泷与奥寺约会时，偶然看到飞驒市照片唤起记忆，三叶留下信息告诉泷约会后正好可以看到彗星，泷觉得此话十分奇怪，决定打电话询问却打不通，而且自那天起就再也没有跟三叶交换身体。心中充满疑问的他利用擅长的素描画下片段印象，并与同学藤井司、前辈奥寺一起去飞驒探个究竟。在泷一行人拿着素描询问当地居民但四处碰壁之际，遇上拉面店老板闲聊回忆起家乡，得知该地名为“糸守町”，并在拉面店老板的带领下来到已无人居住的原糸守町区域；由于三年前迪亚马特彗星分裂出来的彗星击中当时正在举行秋日祭典的宫水神社一带，村镇被摧毁大半，超过500名镇民、包括宫水本家及其朋友皆不幸罹难。不相信这个事实的泷打开手机，却发现三叶的留言全部逐条消失，而历史文献亦将她列在罹难者名单之中。当天晚上和奥寺谈起泷手上不知何来的结绳信物时，泷想到三叶外祖母曾经说过产灵可以连结人与时间，便决定前去糸守町寻找和三叶以及彗星坠落有关的事物。他留下字条跟藤井司、奥寺说明原因后，在拉面店老板的帮助下前往糸守町的御神体。</p>
-<p>泷到达御神体后，尝试喝下三年前三叶所制作而自己当时留下的口嚼酒，一阵晕眩袭卷而来、他意外绊倒时，过去三叶人生历程的种种片段彷若历历在目，等到泷回过神来，发现自己再度与三年前的三叶交换身体。在三叶（泷）思考如何在彗星坠落前拯救糸守町时，又被外祖母识破，并提起自己、二叶、甚至整个宫水家都有过似梦恍惚时候，但是自己已经错过了记忆，特别告诫三叶（泷）要好好珍惜现在这个缘分。三叶（泷）向友人敕使河原克彦、名取早耶香说明情况并且开始策划避难行动，查出小镇所环绕的糸守湖也是陨石造成的撞击坑，更加深他们的信念。敕使河原克彦负责用水胶炸药爆破糸守町附近的变电所造成骚动，名取早耶香则在爆炸后透过广播疏散镇民，三叶（泷）则是跑去跟身为町长的父亲要求疏散镇民，争执之中町长亦从三叶举止发现她似乎不是三叶。在三叶（泷）奔走之际，在御神体的泷（三叶）醒来对于泷的身体为何在御神体感到不明白，好奇的泷（三叶）在走出御神体的山顶时见到消失的小镇，才领悟到本人已在当时观看彗星的时候身亡。当三叶（泷）回到御神体后，在孤落时辰（かたわり時）两人得以相见。在短暂的寒暄后，为避免再次相忘，泷提议双方在对方手上写下自己的名字。三叶正要在泷手上写下名字之际两人却又分离，而泷在三叶手上写下了“喜欢你”。回复真身的三叶继续执行泷未完成的计划，造成骚动促使镇民避难，但其同侪的行动遭町长阻止，此时三叶见到彗星分裂碎片开始坠落，赶紧再次去游说父亲……</p>
-<p>时间跳到泷自飞驒回来五年后，泷已经进入社会工作，对他在御神体时的种种印象已变得模糊，以为是跟藤井司、奥寺吵架然后负气跑到山顶散心；回到东京后却不自觉地对糸守这个地方很在意，从新闻记录中得知镇民因町长以“演习”名义指示至当地高中避难而躲过一劫。即使距彗星灾难八年后（2021年），大学毕业在东京四处求职的泷，仍依稀想找寻某人，期间数次与三叶擦肩而过。在一次偶然机会下，泷与三叶隔着不同电车的车厢，惊讶地遇见了彼此。双方下车后焦急地想与对方见面，最终在阶梯相会。此时的泷和三叶逐渐对彼此有了熟悉的感觉，在那久别重逢的当下，眼泪从两人的脸庞止不住地滑下。两人正要再次错过之时，不忍再次错过的泷开口问道：“我是不是在哪里见过你？”，三叶含泪回答“我也是”，最终，双方笑着对问：“你的名字是？”（君の、名前は）。</p>
-<h3> Production company</h3>
-<p>Toho</p>
-<h3> Time</h3>
-<p>2017-10-06<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt5311514</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>不管你在这个世界的哪里，我都会再一次去见你。</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［3］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>Unknown</li>
-<li>Unknown</li>
-<li>Unknown</li>
-</ul>
-<h3> <s>Repeat</s></h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1644,37 +678,14 @@
     <title type="text">埃罗芒阿老师 エロマンガ先生</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26746533.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26746533.html"/>
-    <updated>2023-02-05T13:35:28.863Z</updated>
+    <updated>2023-03-07T10:18:18.545Z</updated>
     <summary type="html"><![CDATA[<h1> 埃罗芒阿老师 <code>エロマンガ先生</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26746533.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>A-1 Pictures</p>
-<h3> Time</h3>
-<p>2014-04-08<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 埃罗芒阿老师 <code>エロマンガ先生</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26746533.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>A-1 Pictures</p>
-<h3> Time</h3>
-<p>2014-04-08<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt6783056</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-03</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1683,39 +694,14 @@
     <title type="text">魔法科高校的劣等生 呼唤星辰的少女 劇場版 魔法科高校の劣等生 星を呼ぶ少女</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26751897.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26751897.html"/>
-    <updated>2023-02-05T13:35:28.864Z</updated>
+    <updated>2023-03-07T10:18:18.546Z</updated>
     <summary type="html"><![CDATA[<h1> 魔法科高校的劣等生 呼唤星辰的少女 <code>劇場版 魔法科高校の劣等生 星を呼ぶ少女</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26751897.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>8bit</p>
-<h3> Time</h3>
-<p>2017-06-17<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 魔法科高校的劣等生 呼唤星辰的少女 <code>劇場版 魔法科高校の劣等生 星を呼ぶ少女</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26751897.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>8bit</p>
-<h3> Time</h3>
-<p>2017-06-17<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt6580380</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-01-28</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1724,44 +710,14 @@
     <title type="text">紫罗兰永恒花园 ヴァイオレット・エヴァーガーデン</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26805209.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26805209.html"/>
-    <updated>2023-02-05T13:35:28.878Z</updated>
+    <updated>2023-03-07T10:18:18.548Z</updated>
     <summary type="html"><![CDATA[<h1> 紫罗兰永恒花园 <code>ヴァイオレット・エヴァーガーデン</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26805209.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2018-01-10<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 紫罗兰永恒花园 <code>ヴァイオレット・エヴァーガーデン</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26805209.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2018-01-10<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt7078180</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<ul>
-<li>不知是什么的缘故，这部作品竟颤动了我的心，润湿了我那久未落泪的眼眶，深深的烙印在脑海中，未曾淡忘……</li>
-</ul>
-<h4> Sentence</h4>
-<ul>
-<li>花舞凋零之时，爱无传达之期。爱情亘古不变，紫罗兰永世长存。</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2022-12-28</li>
-<li>Unknown</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1770,37 +726,14 @@
     <title type="text">结城友奈是勇者 第二季 結城友奈は勇者である -鷲尾須美の章-/-勇者の章-</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26902081.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26902081.html"/>
-    <updated>2023-02-05T13:35:28.880Z</updated>
+    <updated>2023-03-07T10:18:18.551Z</updated>
     <summary type="html"><![CDATA[<h1> 结城友奈是勇者 第二季 <code>結城友奈は勇者である -鷲尾須美の章-/-勇者の章-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26902081.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Studio Gokumi</p>
-<h3> Time</h3>
-<p>2017-10-06<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 结城友奈是勇者 第二季 <code>結城友奈は勇者である -鷲尾須美の章-/-勇者の章-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26902081.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Studio Gokumi</p>
-<h3> Time</h3>
-<p>2017-10-06<code>JP</code></p>
-<h3> Episodes</h3>
-<ul>
-<li>12集</li>
-</ul>
-<h3> IMDB</h3>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-09</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1809,34 +742,14 @@
     <title type="text">结城友奈是勇者 -鹫尾须美之章- 第1章 朋友 結城友奈は勇者である -鷲尾須美の章- 第1章 ともだち</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26907369.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26907369.html"/>
-    <updated>2023-02-05T13:35:28.881Z</updated>
+    <updated>2023-03-07T10:18:18.553Z</updated>
     <summary type="html"><![CDATA[<h1> 结城友奈是勇者 -鹫尾须美之章- 第1章 朋友 <code>結城友奈は勇者である -鷲尾須美の章- 第1章 ともだち</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26907369.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Studio Gokumi</p>
-<h3> Time</h3>
-<p>2017-03-18<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 结城友奈是勇者 -鹫尾须美之章- 第1章 朋友 <code>結城友奈は勇者である -鷲尾須美の章- 第1章 ともだち</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26907369.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Studio Gokumi</p>
-<h3> Time</h3>
-<p>2017-03-18<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-10</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1845,37 +758,14 @@
     <title type="text">奇诺之旅：废墟之国 キノの旅 廃墟の国</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26975491.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26975491.html"/>
-    <updated>2023-02-05T13:35:28.898Z</updated>
+    <updated>2023-03-07T10:18:18.555Z</updated>
     <summary type="html"><![CDATA[<h1> 奇诺之旅：废墟之国 <code>キノの旅 廃墟の国</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26975491.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2016-07</p>
-<h3> Episodes</h3>
-<p>1集</p>
-<h3> IMDB</h3>
-<p><code>tt9622614</code></p>
-<h2> More</h2>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 奇诺之旅：废墟之国 <code>キノの旅 廃墟の国</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26975491.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2016-07</p>
-<h3> Episodes</h3>
-<p>1集</p>
-<h3> IMDB</h3>
-<p><code>tt9622614</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-07-27</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1884,42 +774,14 @@
     <title type="text">奇诺之旅：新作动画 キノの旅 -the Beautiful World- the Animated Series</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26994753.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26994753.html"/>
-    <updated>2023-02-05T13:35:28.901Z</updated>
+    <updated>2023-03-07T10:18:18.557Z</updated>
     <summary type="html"><![CDATA[<h1> 奇诺之旅：新作动画 <code>キノの旅 -the Beautiful World- the Animated Series</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26994753.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Lerche</p>
-<h3> Time</h3>
-<p>2017-10-06<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 奇诺之旅：新作动画 <code>キノの旅 -the Beautiful World- the Animated Series</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26994753.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Lerche</p>
-<h3> Time</h3>
-<p>2017-10-06<code>JP</code></p>
-<h3> Episodes</h3>
-<ul>
-<li>12集</li>
-</ul>
-<h3> IMDB</h3>
-<p><code>tt6638842</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>无论是谁，看到了翩翔于青空中的鸟儿，或许都会想踏上旅途吧！</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2022-07-24</li>
-<li>Unknown</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1928,35 +790,14 @@
     <title type="text">吹响吧！上低音号～想要传达的旋律～ 劇場版 響け！ユーフォニアム～届けたいメロディ～</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/26994755.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/26994755.html"/>
-    <updated>2023-02-05T13:35:28.902Z</updated>
+    <updated>2023-03-07T10:18:18.559Z</updated>
     <summary type="html"><![CDATA[<h1> 吹响吧！上低音号～想要传达的旋律～ <code>劇場版 響け！ユーフォニアム～届けたいメロディ～</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26994755.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2017-09-30<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 吹响吧！上低音号～想要传达的旋律～ <code>劇場版 響け！ユーフォニアム～届けたいメロディ～</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/26994755.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2017-09-30<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt6973828</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-20</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -1965,37 +806,14 @@
     <title type="text">干物妹！小埋R 干物妹! うまるちゃんRS</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27015988.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27015988.html"/>
-    <updated>2023-02-05T13:35:28.904Z</updated>
+    <updated>2023-03-07T10:18:18.561Z</updated>
     <summary type="html"><![CDATA[<h1> 干物妹！小埋R <code>干物妹! うまるちゃんRS</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27015988.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Doga Kobo inc.</p>
-<h3> Time</h3>
-<p>2017-10-08<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 干物妹！小埋R <code>干物妹! うまるちゃんRS</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27015988.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Doga Kobo inc.</p>
-<h3> Time</h3>
-<p>2017-10-08<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt6850732</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-12-04</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2004,34 +822,14 @@
     <title type="text">结城友奈是勇者 -鹫尾须美之章- 第2章 魂 結城友奈は勇者である -鷲尾須美の章- 第2章 たましい</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27025991.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27025991.html"/>
-    <updated>2023-02-05T13:35:28.906Z</updated>
+    <updated>2023-03-07T10:18:18.562Z</updated>
     <summary type="html"><![CDATA[<h1> 结城友奈是勇者 -鹫尾须美之章- 第2章 魂 <code>結城友奈は勇者である -鷲尾須美の章- 第2章 たましい</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27025991.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Studio Gokumi</p>
-<h3> Time</h3>
-<p>2017-04-15<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 结城友奈是勇者 -鹫尾须美之章- 第2章 魂 <code>結城友奈は勇者である -鷲尾須美の章- 第2章 たましい</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27025991.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Studio Gokumi</p>
-<h3> Time</h3>
-<p>2017-04-15<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-10</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2040,38 +838,14 @@
     <title type="text">剧场版 中二病也要谈恋爱！ -Take On Me- 映画 中二病でも恋がしたい！ -Take On Me-</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27052274.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27052274.html"/>
-    <updated>2023-02-05T13:35:28.910Z</updated>
+    <updated>2023-03-07T10:18:18.564Z</updated>
     <summary type="html"><![CDATA[<h1> 剧场版 中二病也要谈恋爱！ -Take On Me- <code>映画 中二病でも恋がしたい！ -Take On Me-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27052274.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2018-01-06<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 剧场版 中二病也要谈恋爱！ -Take On Me- <code>映画 中二病でも恋がしたい！ -Take On Me-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27052274.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2018-01-06<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt6915208</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-08-19</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2080,34 +854,14 @@
     <title type="text">结城友奈是勇者 －鹫尾须美之章－第3章 约定 結城友奈は勇者である -鷲尾須美の章- 第3章 やくそく</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27053245.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27053245.html"/>
-    <updated>2023-02-05T13:35:28.914Z</updated>
+    <updated>2023-03-07T10:18:18.566Z</updated>
     <summary type="html"><![CDATA[<h1> 结城友奈是勇者 －鹫尾须美之章－第3章 约定 <code>結城友奈は勇者である -鷲尾須美の章- 第3章 やくそく</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27053245.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Studio Gokumi</p>
-<h3> Time</h3>
-<p>2017-07-08<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 结城友奈是勇者 －鹫尾须美之章－第3章 约定 <code>結城友奈は勇者である -鷲尾須美の章- 第3章 やくそく</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27053245.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Studio Gokumi</p>
-<h3> Time</h3>
-<p>2017-07-08<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-10</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2116,35 +870,14 @@
     <title type="text">吹响吧！上低音号～誓言的终章～ 劇場版 響け！ユーフォニアム～誓いのフィナーレ～</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27062638.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27062638.html"/>
-    <updated>2023-02-05T13:35:28.924Z</updated>
+    <updated>2023-03-07T10:18:18.568Z</updated>
     <summary type="html"><![CDATA[<h1> 吹响吧！上低音号～誓言的终章～ <code>劇場版 響け！ユーフォニアム～誓いのフィナーレ～</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27062638.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2019-04-19<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 吹响吧！上低音号～誓言的终章～ <code>劇場版 響け！ユーフォニアム～誓いのフィナーレ～</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27062638.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2019-04-19<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt7089882</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-21</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2153,42 +886,30 @@
     <title type="text">少女终末旅行 少女終末旅行</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27081136.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27081136.html"/>
-    <updated>2023-02-05T13:35:28.926Z</updated>
+    <updated>2023-03-07T10:18:18.570Z</updated>
     <summary type="html"><![CDATA[<h1> 少女终末旅行 <code>少女終末旅行</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27081136.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>WHITE FOX</p>
-<h3> Time</h3>
-<p>2017-10-06<code>JP</code></p>
-<h3> Episodes</h3>
-<ul>
-<li>12集</li>
-</ul>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 少女终末旅行 <code>少女終末旅行</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27081136.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>WHITE FOX</p>
-<h3> Time</h3>
-<p>2017-10-06<code>JP</code></p>
-<h3> Episodes</h3>
-<ul>
-<li>12集</li>
-</ul>
-<h3> IMDB</h3>
-<p><code>tt7474942</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-11-29</li>
-</ul>
-<h3> Repeat</h3>
+]]></content>
+    <category term="anime"/>
+    <published>2023-01-31T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">我想吃掉你的胰脏 君の膵臓をたべたい</title>
+    <id>https://ssg.dmbcjx.com/zh/anime/list/27107140.html</id>
+    <link href="https://ssg.dmbcjx.com/zh/anime/list/27107140.html"/>
+    <updated>2023-03-07T10:18:18.571Z</updated>
+    <summary type="html"><![CDATA[<h1> 我想吃掉你的胰脏 <code>君の膵臓をたべたい</code></h1>
+<h2> 信息</h2>
+<h3> 海报</h3>
+]]></summary>
+    <content type="html"><![CDATA[<h1> 我想吃掉你的胰脏 <code>君の膵臓をたべたい</code></h1>
+<h2> 信息</h2>
+<h3> 海报</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2197,44 +918,14 @@
     <title type="text">灵笼 INCARNATION</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27121260.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27121260.html"/>
-    <updated>2023-02-05T13:35:28.928Z</updated>
+    <updated>2023-03-07T10:18:18.573Z</updated>
     <summary type="html"><![CDATA[<h1> 灵笼 <code>INCARNATION</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27121260.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 灵笼 <code>INCARNATION</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27121260.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>本片讲述了在地球发生地质灾害，经历大灾难后的破败不堪的地球上，人类该何去何从？</p>
-<h3> Production company</h3>
-<p>YHKT ENTERTAINMENT</p>
-<h3> Time</h3>
-<p>2019-07-13<code>CN</code></p>
-<h3> Episodes</h3>
-<p>16集</p>
-<h3> IMDB</h3>
-<p><code>tt10827146</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2020-08-21</li>
-</ul>
-<h3> <s>Repeat</s></h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2243,39 +934,14 @@
     <title type="text">Re：从零开始的异世界生活 雪之回忆 Re:ゼロから始める異世界生活 Memory Snow</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27140066.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27140066.html"/>
-    <updated>2023-02-05T13:35:28.931Z</updated>
+    <updated>2023-03-07T10:18:18.575Z</updated>
     <summary type="html"><![CDATA[<h1> Re：从零开始的异世界生活 雪之回忆 <code>Re:ゼロから始める異世界生活 Memory Snow</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27140066.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>WHITE FOX</p>
-<h3> Time</h3>
-<p>2018-10-06<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> Re：从零开始的异世界生活 雪之回忆 <code>Re:ゼロから始める異世界生活 Memory Snow</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27140066.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>WHITE FOX</p>
-<h3> Time</h3>
-<p>2018-10-06<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt8565186</code></p>
-<h3> Type</h3>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-09-10</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2284,41 +950,14 @@
     <title type="text">魔法禁书目录3 とある魔術の禁書目録Ⅲ</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27157689.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27157689.html"/>
-    <updated>2023-02-05T13:35:28.932Z</updated>
+    <updated>2023-03-07T10:18:18.576Z</updated>
     <summary type="html"><![CDATA[<h1> 魔法禁书目录3 <code>とある魔術の禁書目録Ⅲ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27157689.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2018-10-05<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 魔法禁书目录3 <code>とある魔術の禁書目録Ⅲ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27157689.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2018-10-05<code>JP</code></p>
-<h3> Episodes</h3>
-<p>26集</p>
-<h3> IMDB</h3>
-<p><code>tt8565160</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>在科学与魔法交织的世界，开创新时代</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2022-12-18</li>
-<li>Unknown</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2327,41 +966,14 @@
     <title type="text">某科学的超电磁炮T とある科学の超電磁砲T</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27160705.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27160705.html"/>
-    <updated>2023-02-05T13:35:28.933Z</updated>
+    <updated>2023-03-07T10:18:18.578Z</updated>
     <summary type="html"><![CDATA[<h1> 某科学的超电磁炮T <code>とある科学の超電磁砲T</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27160705.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2020-01-10<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 某科学的超电磁炮T <code>とある科学の超電磁砲T</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27160705.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2020-01-10<code>JP</code></p>
-<h3> Episodes</h3>
-<p>25集</p>
-<h3> IMDB</h3>
-<p><code>tt10256932</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>你指尖跃动的电光，是我此生不灭的信仰，唯我超电磁炮永世长存！</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2022-12-07</li>
-<li>Unknown</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2370,36 +982,14 @@
     <title type="text">夏目友人帐 劇場版 夏目友人帳 ～うつせみに結ぶ～</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27166442.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27166442.html"/>
-    <updated>2023-02-05T13:35:28.935Z</updated>
+    <updated>2023-03-07T10:18:18.579Z</updated>
     <summary type="html"><![CDATA[<h1> 夏目友人帐 <code>劇場版 夏目友人帳 ～うつせみに結ぶ～</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27166442.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Shuka</p>
-<h3> Time</h3>
-<p>2018-09-29<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 夏目友人帐 <code>劇場版 夏目友人帳 ～うつせみに結ぶ～</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27166442.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Shuka</p>
-<h3> Time</h3>
-<p>2018-09-29<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt9081300</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-02-09</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2408,38 +998,14 @@
     <title type="text">Re：从零开始的异世界生活 冰结之绊 Re:ゼロから始める異世界生活 氷結の絆</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/27607434.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/27607434.html"/>
-    <updated>2023-02-05T13:35:28.937Z</updated>
+    <updated>2023-03-07T10:18:18.581Z</updated>
     <summary type="html"><![CDATA[<h1> Re：从零开始的异世界生活 冰结之绊 <code>Re:ゼロから始める異世界生活 氷結の絆</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27607434.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>WHITE FOX</p>
-<h3> Time</h3>
-<p>2019-11-08<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> Re：从零开始的异世界生活 冰结之绊 <code>Re:ゼロから始める異世界生活 氷結の絆</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/27607434.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>WHITE FOX</p>
-<h3> Time</h3>
-<p>2019-11-08<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt11285348</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-09-10</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2448,40 +1014,14 @@
     <title type="text">工作细胞 はたらく細胞</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/28514091.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/28514091.html"/>
-    <updated>2023-02-05T13:35:28.972Z</updated>
+    <updated>2023-03-07T10:18:18.584Z</updated>
     <summary type="html"><![CDATA[<h1> 工作细胞 <code>はたらく細胞</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/28514091.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>David Production</p>
-<h3> Time</h3>
-<p>2018-07-07<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 工作细胞 <code>はたらく細胞</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/28514091.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>David Production</p>
-<h3> Time</h3>
-<p>2018-07-07<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt8673610</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2020-06-13</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2490,37 +1030,14 @@
     <title type="text">青春期猪头少年不做兔女郎学姐的梦 青春ブタ野郎はバニーガール先輩の夢を見ない</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/30166978.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/30166978.html"/>
-    <updated>2023-02-05T13:35:28.981Z</updated>
+    <updated>2023-03-07T10:18:18.585Z</updated>
     <summary type="html"><![CDATA[<h1> 青春期猪头少年不做兔女郎学姐的梦 <code>青春ブタ野郎はバニーガール先輩の夢を見ない</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30166978.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>CloverWorks</p>
-<h3> Time</h3>
-<p>2018-10-03<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 青春期猪头少年不做兔女郎学姐的梦 <code>青春ブタ野郎はバニーガール先輩の夢を見ない</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30166978.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>CloverWorks</p>
-<h3> Time</h3>
-<p>2018-10-03<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt8993398</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-01</li>
-<li>Unknown</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2529,35 +1046,14 @@
     <title type="text">紫罗兰永恒花园 剧场版 劇場版 ヴァイオレット・エヴァーガーデン</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/30179560.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/30179560.html"/>
-    <updated>2023-02-05T13:35:28.984Z</updated>
+    <updated>2023-03-07T10:18:18.587Z</updated>
     <summary type="html"><![CDATA[<h1> 紫罗兰永恒花园 剧场版 <code>劇場版 ヴァイオレット・エヴァーガーデン</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30179560.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2020-09-18<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 紫罗兰永恒花园 剧场版 <code>劇場版 ヴァイオレット・エヴァーガーデン</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30179560.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2020-09-18<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt8652818</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-12-29</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2566,45 +1062,14 @@
     <title type="text">天使降临到我身边 私に天使が舞い降りた！</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/30249248.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/30249248.html"/>
-    <updated>2023-02-05T13:35:28.987Z</updated>
+    <updated>2023-03-07T10:18:18.589Z</updated>
     <summary type="html"><![CDATA[<h1> 天使降临到我身边 <code>私に天使が舞い降りた！</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30249248.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 天使降临到我身边 <code>私に天使が舞い降りた！</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30249248.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>女大学生星野宫子对小学生妹妹星野日向的同学白咲花一见钟情，虽然宫子一心想跟花友好相处，但都遭到了花的抗拒。最后宫子靠着制作美味点心的好手艺，成功虏获芳心，日后展开了一连串的日常喜剧故事。</p>
-<h3> Production company</h3>
-<p>Doga Kobo</p>
-<h3> Time</h3>
-<p>2019-01-08<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt9622614</code></p>
-<h2> Score <code>PPFP</code>：470</h2>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>在春天的气息逐渐散去的五月末，天使降临到了我的身边。</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-12-01</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2613,40 +1078,14 @@
     <title type="text">喂，看见耳朵啦！ ほら、耳がみえてるよ！</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/30299263.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/30299263.html"/>
-    <updated>2023-02-05T13:35:28.991Z</updated>
+    <updated>2023-03-07T10:18:18.591Z</updated>
     <summary type="html"><![CDATA[<h1> 喂，看见耳朵啦！ <code>ほら、耳がみえてるよ！</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30299263.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>monofilmo</p>
-<h3> Time</h3>
-<p>2021-01-09<code>CN</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 喂，看见耳朵啦！ <code>ほら、耳がみえてるよ！</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30299263.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>monofilmo</p>
-<h3> Time</h3>
-<p>2021-01-09<code>CN</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt10623466</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2020-06-13</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2655,38 +1094,14 @@
     <title type="text">青春期猪头少年不做怀梦少女的梦 青春ブタ野郎はゆめみる少女の夢を見ない</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/30329902.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/30329902.html"/>
-    <updated>2023-02-05T13:35:28.994Z</updated>
+    <updated>2023-03-07T10:18:18.600Z</updated>
     <summary type="html"><![CDATA[<h1> 青春期猪头少年不做怀梦少女的梦 <code>青春ブタ野郎はゆめみる少女の夢を見ない</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30329902.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>CloverWorks</p>
-<h3> Time</h3>
-<p>2016-06-15<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 青春期猪头少年不做怀梦少女的梦 <code>青春ブタ野郎はゆめみる少女の夢を見ない</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30329902.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>CloverWorks</p>
-<h3> Time</h3>
-<p>2016-06-15<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt10472884</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2023-01-02</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2695,40 +1110,14 @@
     <title type="text">某科学的一方通行 とある科学の一方通行</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/30337233.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/30337233.html"/>
-    <updated>2023-02-05T13:35:28.996Z</updated>
+    <updated>2023-03-07T10:18:18.602Z</updated>
     <summary type="html"><![CDATA[<h1> 某科学的一方通行 <code>とある科学の一方通行</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30337233.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2019-07-12<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 某科学的一方通行 <code>とある科学の一方通行</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30337233.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2019-07-12<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt10256918</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>我不管他是何方神圣，也无所谓其究竟是哪种组织，既然敢让我不爽，我定会亲手毁灭它！</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-12-19</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2737,40 +1126,14 @@
     <title type="text">Re：从零开始的异世界生活 第二季 Re:ゼロから始める異世界生活 2nd season</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/30353116.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/30353116.html"/>
-    <updated>2023-02-05T13:35:28.998Z</updated>
+    <updated>2023-03-07T10:18:18.604Z</updated>
     <summary type="html"><![CDATA[<h1> Re：从零开始的异世界生活 第二季 <code>Re:ゼロから始める異世界生活 2nd season</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30353116.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>WHITE FOX</p>
-<h3> Time</h3>
-<p>2020-07-08<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> Re：从零开始的异世界生活 第二季 <code>Re:ゼロから始める異世界生活 2nd season</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30353116.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>WHITE FOX</p>
-<h3> Time</h3>
-<p>2020-07-08<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt10112240</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-09-10</li>
-<li>Unknown</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2779,38 +1142,14 @@
     <title type="text">因为太怕疼就全点防御力了 痛いのは嫌なので防御力に極振りしたいと思います。</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/30397673.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/30397673.html"/>
-    <updated>2023-02-05T13:35:29.000Z</updated>
+    <updated>2023-03-07T10:18:18.605Z</updated>
     <summary type="html"><![CDATA[<h1> 因为太怕疼就全点防御力了 <code>痛いのは嫌なので防御力に極振りしたいと思います。</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30397673.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2020-01-08<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 因为太怕疼就全点防御力了 <code>痛いのは嫌なので防御力に極振りしたいと思います。</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30397673.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2020-01-08<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt11428630</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-12-26</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2819,43 +1158,14 @@
     <title type="text">你好世界 HELLO WORLD</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/30401194.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/30401194.html"/>
-    <updated>2023-02-05T13:35:29.002Z</updated>
+    <updated>2023-03-07T10:18:18.607Z</updated>
     <summary type="html"><![CDATA[<h1> 你好世界 <code>HELLO WORLD</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30401194.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 你好世界 <code>HELLO WORLD</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30401194.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>在2027年的京都，科技发达的电子化时代，男主角是整天都埋首在书堆中的一名高中生坚书直实，对自己一向都没有自信，有天一只三只脚的乌鸦出现在直实的面前，把直实吓得手上的袋子掉落一地，里头的书也掉了出来，这时那只乌鸦把书咬起便飞走了，飞到一处神社前的鸟居下，男主也追了过来捡起了书，这时突然出现了向电玩般的线条正在围着直实，一名白衣成年男子出现，且喃喃自语说“成功了吗？”并询问直实现在是西元几年，直实看到就吓跑了，没想到白衣男子很快得就追到了，并说“我是十年后的坚书直实”，这时小直实喊“我要报警䁖”，刚好一位男孩走了过去。隔日乌鸦逼迫小直实去找十年后的直实，十年后的直实就带小直实参观“阿尔塔拉”，解释完一切后，他们上了公车，照着大直实说的做就遇到了女主角一行瑠璃，但小直实说“她不是我的菜，她不可爱……”。大直实就气得带小直实去看看瑠璃，不料大直实竟落下了眼泪。经过一番解释后，才得知大直实跟瑠璃交往三个月后一齐去看烟火，没想到一道轰天巨雷落下打中了瑠璃，从此她在大直实的α时空线昏迷了10年，所以大直实要做的是把她从β时空线（一行瑠璃存活的世界）和α时空线做结合，原因是只为了“再看一次瑠璃的一次笑容”，之后展开了为期三个月的训练，从橡皮擦到铁再到黑洞，之后男主一步一步揭穿大直实的计划……。</p>
-<h3> Production company</h3>
-<p>Graphinica</p>
-<h3> Time</h3>
-<p>2019-09-20<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt9418812</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2021-06-25</li>
-</ul>
-<h3> <s>Repeat</s></h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2864,48 +1174,14 @@
     <title type="text">天气之子 天気の子</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/30402296.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/30402296.html"/>
-    <updated>2023-02-05T13:35:29.013Z</updated>
+    <updated>2023-03-07T10:18:18.609Z</updated>
     <summary type="html"><![CDATA[<h1> 天气之子 <code>天気の子</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30402296.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 天气之子 <code>天気の子</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30402296.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>2021年夏天，住在神津岛上的高一男生森岛帆高离家出走，独自搭乘货船来到东京新宿。帆高暂时住在网咖里，想找打工机会，但没有人要录用他。一次在歌舞伎町被皮条客欺负后，帆高意外捡到一把手枪，但不确定是不是真的。走投无路下帆高只好去找在货船上认识的作家须贺圭介。须贺和侄女夏美经营一家编辑事务所，专门向神秘学杂志投稿。须贺提供帆高包吃包住的工作机会，帆高欣然答应，开始在事务所打杂和协助写文章。</p>
-<p>因为关东地区出现长期下雨的异常气候，“100%的晴女”这样的都市传说开始流传，据称晴女有短暂让天气放晴的能力，须贺的事务所将之列为调查的题材。一天，帆高在街上偶遇曾帮过他的打工少女，看见她和皮条客在一起，于是想强行带着她离开，但被皮条客打倒。帆高拿出捡到的枪想威吓对方，结果还真的射出了子弹。帆高和少女逃跑到附近的废弃大楼后，少女称自己是为了赚钱才和对方有牵扯，并指责帆高的危险行为。帆高将枪丢掉，少女的态度随后也转温柔，并给帆高见识她让局部的天气短暂放晴的能力，帆高因此发现她是货真价实的晴女。</p>
-<p>少女告诉帆高自己的名字是阳菜，即将满18岁，和读小学的弟弟凪住在一起。因为阳菜丢了工作，帆高于是建议她用晴女的能力来赚钱，并在网络上架起委托网站。阳菜接二连三完成委托，对能让大家开心感到很满足，晴女的知名度也越来越高。在一次委托中，阳菜让即将施放烟火的天空放晴时被媒体拍到，因此有大量委托涌入，阳菜感到疲累，决定休息一阵子。与此同时，须贺和夏美也调查到有关晴女（天气巫女）的不祥传说。</p>
-<p>帆高的家人向警方发出寻人请求，而警方也开始调查那天帆高开枪的事件。有警察找上了须贺的事务所，须贺因为正在争取女儿的扶养权，不想惹上麻烦，所以选择遣散帆高，要他回家去。另一方面，警方的儿童咨询人员也向阳菜和凪探问，并称未成年者不适合自己居住。怕被拆散的帆高、阳菜和凪三人开始逃跑。逃跑过程中异常天气开始显现——夏天居然下起了雪。三人好不容易才找到有爱情旅馆愿意让他们住，当晚三人一起度过了一段幸福的时光。</p>
-<p>夜晚就寝时，阳菜的身体变得越来越透明，可能是晴女能力的代价，也可能和“天气巫女是维持天气稳定的活祭品”的古老传说有关。帆高做了阳菜离去的梦，天亮醒来时，阳菜已经不见了。警察没多久就进入旅馆房间搜查，将帆高押送到警局，并把凪带到儿福中心。过程中帆高发现东京久违的放晴是阳菜牺牲换来的结果，并得知阳菜的真实年龄其实比他小。帆高试着将有关晴女的事情告诉警察，但不被当一回事。随后帆高趁隙逃出警局，警察紧追在后。夏美骑车接应帆高，但因积水无法前进。电车因为异常天气而停驶，帆高于是跳上铁轨开始狂奔，前往阳菜获得能力、也是她首次放晴给帆高看的废弃大楼。</p>
-<p>在废弃大楼，帆高遭到来找他的须贺阻止，于是捡起之前丢在这里的手枪，凭着决心对空开了一枪。警察随后包围帆高，并强硬地将他压制。须贺被帆高的态度打动，而和赶到的凪帮助帆高牵制警察，让他前往楼顶。帆高在楼顶祈祷后上到云层之上，在“让天气放晴”和“带回阳菜”之间选择了阳菜，将被困在天上的阳菜救了下来。事后帆高遭到逮捕，罪责酌情减轻，仅判他在高中毕业前都要接受监管。阳菜得救后，东京的雨就再也没停过，足足下了两年半，让东京某些地区变成一片汪洋。2024年，帆高搬到东京读大学，终于和阳菜重逢。</p>
-<h3> Production company</h3>
-<p>Toho</p>
-<h3> Time</h3>
-<p>2019-07-19<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt9426210</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2021-03-12</li>
-</ul>
-<h3> <s>Repeat</s></h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2914,40 +1190,14 @@
     <title type="text">喂，看见耳朵啦！第二季 ほら、耳がみえてるよ！第2期</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/30459043.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/30459043.html"/>
-    <updated>2023-02-05T13:35:29.018Z</updated>
+    <updated>2023-03-07T10:18:18.611Z</updated>
     <summary type="html"><![CDATA[<h1> 喂，看见耳朵啦！第二季 <code>ほら、耳がみえてるよ！第2期</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30459043.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>monofilmo</p>
-<h3> Time</h3>
-<p>2019-02-02<code>CN</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 喂，看见耳朵啦！第二季 <code>ほら、耳がみえてるよ！第2期</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/30459043.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>monofilmo</p>
-<h3> Time</h3>
-<p>2019-02-02<code>CN</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt10623466</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2020-06-13</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2956,35 +1206,14 @@
     <title type="text">CLANNAD 另一个世界 智代篇 CLANNAD もうひとつの世界 智代編</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/3160947.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/3160947.html"/>
-    <updated>2023-02-05T13:35:29.019Z</updated>
+    <updated>2023-03-07T10:18:18.613Z</updated>
     <summary type="html"><![CDATA[<h1> CLANNAD 另一个世界 智代篇 <code>CLANNAD もうひとつの世界 智代編</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/3160947.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2008-07-16<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> CLANNAD 另一个世界 智代篇 <code>CLANNAD もうひとつの世界 智代編</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/3160947.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2008-07-16<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt1267316</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-30</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -2993,41 +1222,14 @@
     <title type="text">魔法禁书目录 とある魔術の禁書目録</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/3251306.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/3251306.html"/>
-    <updated>2023-02-05T13:35:29.021Z</updated>
+    <updated>2023-03-07T10:18:18.615Z</updated>
     <summary type="html"><![CDATA[<h1> 魔法禁书目录 <code>とある魔術の禁書目録</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/3251306.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2008-10-04<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 魔法禁书目录 <code>とある魔術の禁書目録</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/3251306.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2008-10-04<code>JP</code></p>
-<h3> Episodes</h3>
-<p>24集</p>
-<h3> IMDB</h3>
-<p><code>tt1308089</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>在科学与魔法交织的世界，开创新时代</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2022-12-15</li>
-<li>Unknown</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3036,40 +1238,14 @@
     <title type="text">工作细胞 第二季 はたらく細胞!!</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/33377727.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/33377727.html"/>
-    <updated>2023-02-05T13:35:29.029Z</updated>
+    <updated>2023-03-07T10:18:18.618Z</updated>
     <summary type="html"><![CDATA[<h1> 工作细胞 第二季 <code>はたらく細胞!!</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/33377727.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Doga Kobo inc.</p>
-<h3> Time</h3>
-<p>2021-01-09<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 工作细胞 第二季 <code>はたらく細胞!!</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/33377727.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Doga Kobo inc.</p>
-<h3> Time</h3>
-<p>2021-01-09<code>JP</code></p>
-<h3> Episodes</h3>
-<p>8集</p>
-<h3> IMDB</h3>
-<p><code>tt12093550</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2021-03-04</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3078,37 +1254,14 @@
     <title type="text">总之就是非常可爱 トニカクカワイイ</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/33377767.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/33377767.html"/>
-    <updated>2023-02-05T13:35:29.032Z</updated>
+    <updated>2023-03-07T10:18:18.620Z</updated>
     <summary type="html"><![CDATA[<h1> 总之就是非常可爱 <code>トニカクカワイイ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/33377767.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Seven Arcs</p>
-<h3> Time</h3>
-<p>2020-10-03<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 总之就是非常可爱 <code>トニカクカワイイ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/33377767.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Seven Arcs</p>
-<h3> Time</h3>
-<p>2020-10-03<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt12311976</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-06</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3117,40 +1270,14 @@
     <title type="text">紫罗兰永恒花园外传：永远与自动手记人偶 ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/33424345.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/33424345.html"/>
-    <updated>2023-02-05T13:35:29.035Z</updated>
+    <updated>2023-03-07T10:18:18.623Z</updated>
     <summary type="html"><![CDATA[<h1> 紫罗兰永恒花园外传：永远与自动手记人偶 <code>ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/33424345.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2019-09-06<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 紫罗兰永恒花园外传：永远与自动手记人偶 <code>ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/33424345.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Kyoto Animation</p>
-<h3> Time</h3>
-<p>2019-09-06<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt10477558</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>只要呼唤我的名字，我们之间的羁绊就不会消失</li>
-<li>只要呼唤你的名字，我们的牵挂就永远不会消逝</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2020-12-30</li>
-<li>Unknown</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3159,39 +1286,14 @@
     <title type="text">镜·双城 风起篇 镜·双城 序章</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/34437060.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/34437060.html"/>
-    <updated>2023-02-05T13:35:29.038Z</updated>
+    <updated>2023-03-07T10:18:18.624Z</updated>
     <summary type="html"><![CDATA[<h1> 镜·双城 风起篇 <code>镜·双城 序章</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/34437060.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2021-01-09<code>CN</code></p>
-<h3> Episodes</h3>
-<p>4集</p>
-<h3> IMDB</h3>
-<p><code>tt10623466</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 镜·双城 风起篇 <code>镜·双城 序章</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/34437060.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2021-01-09<code>CN</code></p>
-<h3> Episodes</h3>
-<p>4集</p>
-<h3> IMDB</h3>
-<p><code>tt10623466</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2020-08-23</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3200,42 +1302,14 @@
     <title type="text">魔法科高校的劣等生 来访者篇 魔法科高校の劣等生 来訪者編</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/34852270.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/34852270.html"/>
-    <updated>2023-02-05T13:35:29.045Z</updated>
+    <updated>2023-03-07T10:18:18.626Z</updated>
     <summary type="html"><![CDATA[<h1> 魔法科高校的劣等生 来访者篇 <code>魔法科高校の劣等生 来訪者編</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/34852270.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>8bit</p>
-<h3> Time</h3>
-<p>2020-10-03<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 魔法科高校的劣等生 来访者篇 <code>魔法科高校の劣等生 来訪者編</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/34852270.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>8bit</p>
-<h3> Time</h3>
-<p>2020-10-03<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> Episodes</h3>
-<p>2022-01-27</p>
-<h3> IMDB</h3>
-<p><code>tt11080192</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-01-27</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3244,48 +1318,14 @@
     <title type="text">魔女之旅 魔女の旅々</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/34867999.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/34867999.html"/>
-    <updated>2023-02-05T13:35:29.048Z</updated>
+    <updated>2023-03-07T10:18:18.628Z</updated>
     <summary type="html"><![CDATA[<h1> 魔女之旅 <code>魔女の旅々</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/34867999.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 魔女之旅 <code>魔女の旅々</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/34867999.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>伊蕾娜自小受魔女妮可的著作《妮可的冒险谭》影响，梦想成为魔女环游世界，并于14岁通过考试成为见习魔女。为了成为一名正式的魔女，她前往森林拜“星尘魔女”芙兰为师，并在一年后得到了出师的认可，获得了“灰之魔女”的魔女名，成为了一名魔女。不久后，伊蕾娜告别了父母双亲，离开家乡开始了旅程，如今已过了三年。一日，伊蕾娜来到了魔法使之国，在四处飞行时被另一个魔法使沙耶意外从扫帚上撞下，由于沙耶为了挽留伊蕾娜，拿走了她的代表魔女身份的胸针，使得伊蕾娜不受待见。得知真相后，伊蕾娜将自己的备用魔女帽赠与沙耶，让她不再感到孤单。</p>
-<p>在飞过一片花田时，伊蕾娜遇到了一名女性，她请求伊蕾娜把一束花送给他人。但在进入下一个王国时，她被一个卫兵所拦下，这名卫兵认出这是他失踪的妹妹送来的。此时另一个卫兵赶到，告知伊蕾娜这束花有能蛊惑不会魔法的普通人的能力，能让遭到魅惑的人被吸引到花田，并成为花的养分，伊蕾娜最后同意将这些花销毁。第二天，伊蕾娜回到了那片花田，却发现那名女性变成了一株植物，她的哥哥也在变成植物的过程中。看到自己无能为力后，伊蕾娜飞走了。途中，伊蕾娜遇到了名叫艾米尔的魔法使，他是村长的儿子，用一个能收集幸福感觉的瓶子四处旅行来收集幸福的场景，准备将其作为礼物送给他暗恋的名叫尼诺的少女，但尼诺其实是村长从奴隶市场买入的家中女仆。当天艾米尔借安慰她的机会把礼物送给了尼诺，伊蕾娜随后离开。</p>
-<p>伊蕾娜后来来到了一个已几乎化为废墟的王国，遇见了失忆的公主米拉罗瑟。她在醒来后发现了一份信，信中告知一个名叫加霸烈的怪物会在每晚袭击国家，并希望米菈罗赛杀死加霸烈。在伊蕾娜进行战前的准备后，米拉罗塞在当晚轻松地击杀了加霸烈。战斗结束后，米拉罗塞恢复了记忆：她曾经和皇宫的厨师相恋并怀有厨师的孩子，但父皇不同意这段恋情并处死了厨师和孩子。米菈罗赛为了报复，以自己失忆为代价，将父皇诅咒成怪物加霸烈。次日米拉罗瑟陷入精神崩溃，伊蕾娜悄然离开。后来的某日，伊蕾娜在书摊上看到了一本名叫《芙兰的冒险谭》的书，回忆起半年前她前往王立赛勒斯提利亚时的情景。她在该国与老师芙兰重逢，并与芙兰一同指导学生，一同欣赏芙兰最喜爱的景色。</p>
-<p>伊蕾娜来到了“诚实之国”，该国国王在全国范围内布下了让人无法说谎的结界。伊蕾娜在该国与已经成为了一名魔女的沙耶重逢，并在前皇家魔女艾黑米亚的请求下，一同潜入城堡，经过短暂的混战后解除了王国的结界，让国家恢复正常，也让国王认识到自己的错误。伊蕾娜曾在《妮可的冒险谭》中读过一个故事：有个国家因为两边关系不好，建起一堵高墙将其一分为二，在魔女妮可的建议下，两边官员让旅人在墙上雕下赞美的语句以示自己强于对面。但当伊蕾娜来到这个国家时，这堵高墙已经倒塌。伊蕾娜后来抵达名叫“这个村”的村庄，得知“那个村”通过让美女露丝玛莉踩葡萄来增加葡萄酒的销量，遭到露丝玛莉嘲讽后，伊蕾娜答应帮忙并亲自踩了一天葡萄。当晚，她揭开了“那个村”的葡萄酒实际是由壮汉踩出的黑幕，两村庄随后爆发冲突互扔葡萄，而伊蕾娜喝葡萄酒醉了后以魔法向双方发射大量葡萄弹，导致所有人失去意识，然后在无人知晓下离开了村庄。这最终成为了“扔葡萄节”的起源。</p>
-<p>伊蕾娜来到一个洋娃娃非常流行的国家，在该国发现自己的头发莫名被剪了。在魔法统筹协会的成员希拉的帮助下，她们成功抓捕了偷取真人的头发将其安在洋娃娃上的幕后黑手。伊蕾娜后来抵达钟表之乡洛施托夫，由于快没钱了而接下了薰衣魔女埃斯特尔的委托，后者的朋友瑟雷娜的父母在十年前遭谋杀后，开始憎恨世界成为杀人魔，最终被埃斯特尔亲手处决。她们回溯到十年前试图阻止瑟雷娜的父母的死亡，却发现凶手正是瑟蕾娜本人，埃斯特尔最终以自己和瑟蕾娜之间的记忆为代价再度处决了好友，面对失去与昔日好友的记忆的埃斯特尔，伊蕾娜对自己的无能为力感到绝望。</p>
-<p>在命令沙耶将一个不能在路上打开的盒子送到自由之城克诺兹的魔法统筹协会分部后，希拉准备和芙兰度假。两人在路上回忆起他们在见习魔女时代拜同一名魔女为师的经历。一日，她们接到委托后来到克诺兹，其师傅要求她们逮捕古董堂，一个在克诺兹威胁魔法使的强盗团伙。然而，由于性格不合，她们持续的冲突导致其互相妨碍，最后均被古董堂俘获。最终，两人放下分歧，共同打败了古董堂。后来她们成为了正式的魔女，师傅以两人的发色取了“星尘魔女”和“暗夜魔女”的魔女名。回到现在，希拉意识到之前要求沙耶送的盒子原本是古董堂的，急忙去找沙耶。与此同时，伊蕾娜也来到了克诺兹，在报纸上得知古董堂时隔20年再度重回江湖，沙耶在此时也来到了克诺兹。古董堂首领后来找到了伊蕾娜，使用魔法让伊蕾娜和沙耶交换了身体。伊蕾娜在不知情中，使用沙耶的身体打开了盒子，释放的喷雾蔓延到整个小镇，让所有居民处于疯狂发情的状态，古董堂趁机作乱。伊蕾娜和处在自己身体中的沙耶会合，并逮捕了部分古董堂的成员，找到了古董堂的首领。芙兰和希拉也尽数处理了所有古董堂成员。一天后身体互换药药效解除。芙兰跟伊蕾娜明示自己的师傅，《妮可的冒险谭》的作者正是伊蕾娜的母亲，但伊蕾娜因担心知道真相后会丧失旅行的理由而谢绝。</p>
-<p>伊蕾娜来到一个声称能让愿望成真的国家，发现有许多个不同版本的自己。在与许多个自己举行的会议上，真正的伊蕾娜得知有一个“粗暴的我”试图攻击她们。此后不久，“粗暴的我”出现，在疲惫的战斗之后，真正的伊蕾娜与粗暴的伊蕾娜谈心和解。回到城堡后，伊蕾娜们决定将他们的日记编撰成册，编织自己的旅行故事，命名为《魔女之旅》。醒来后，伊蕾娜发现自己躺在一片草地上，日记本的封面上正写着“魔女之旅”。后来，伊蕾娜在某个国家与一名少女意外相撞，并不小心互相拿错了自己的书。据片尾伊蕾娜自述，她将会和这位名叫安妮西亚的少女一起旅行。</p>
-<h3> Production company</h3>
-<p>C2C</p>
-<h3> Time</h3>
-<p>2020-10-02<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt12457334</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2022-08-16</li>
-<li>Unknown</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3294,33 +1334,14 @@
     <title type="text">HELLO WORLD 衍生外传动画 ANOTHER WORLD HELLO WORLD オリジナルスピンオフアニメ ANOTHER WORLD</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/34906737.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/34906737.html"/>
-    <updated>2023-02-05T13:35:29.050Z</updated>
+    <updated>2023-03-07T10:18:18.630Z</updated>
     <summary type="html"><![CDATA[<h1> HELLO WORLD 衍生外传动画 ANOTHER WORLD <code>HELLO WORLD オリジナルスピンオフアニメ ANOTHER WORLD</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/34906737.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2019-09-13<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> HELLO WORLD 衍生外传动画 ANOTHER WORLD <code>HELLO WORLD オリジナルスピンオフアニメ ANOTHER WORLD</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/34906737.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2019-09-13<code>JP</code></p>
-<h3> Episodes</h3>
-<p>3集</p>
-<h3> IMDB</h3>
-<p><code>tt10623466</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-02-06</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3329,38 +1350,14 @@
     <title type="text">Re：从零开始的异世界生活 新编集版 Re:ゼロから始める異世界生活 新編集版</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/34937942.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/34937942.html"/>
-    <updated>2023-02-05T13:35:29.052Z</updated>
+    <updated>2023-03-07T10:18:18.633Z</updated>
     <summary type="html"><![CDATA[<h1> Re：从零开始的异世界生活 新编集版 <code>Re:ゼロから始める異世界生活 新編集版</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/34937942.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>WHITE FOX</p>
-<h3> Time</h3>
-<p>2020-01-01<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> Re：从零开始的异世界生活 新编集版 <code>Re:ゼロから始める異世界生活 新編集版</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/34937942.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>WHITE FOX</p>
-<h3> Time</h3>
-<p>2020-01-01<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-09-10</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3369,37 +1366,14 @@
     <title type="text">致不灭的你 不滅のあなたへ</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/34941837.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/34941837.html"/>
-    <updated>2023-02-05T13:35:29.055Z</updated>
+    <updated>2023-03-07T10:18:18.634Z</updated>
     <summary type="html"><![CDATA[<h1> 致不灭的你 <code>不滅のあなたへ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/34941837.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Brain's Base</p>
-<h3> Time</h3>
-<p>2021-04-12<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 致不灭的你 <code>不滅のあなたへ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/34941837.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Brain's Base</p>
-<h3> Time</h3>
-<p>2021-04-12<code>JP</code></p>
-<h3> Episodes</h3>
-<p>20集</p>
-<h3> IMDB</h3>
-<p><code>tt12063450</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-24</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3408,40 +1382,14 @@
     <title type="text">工作细胞BLACK はたらく細胞BLACK</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/35041936.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/35041936.html"/>
-    <updated>2023-02-05T13:35:29.067Z</updated>
+    <updated>2023-03-07T10:18:18.636Z</updated>
     <summary type="html"><![CDATA[<h1> 工作细胞BLACK <code>はたらく細胞BLACK</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35041936.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>David Production</p>
-<h3> Time</h3>
-<p>2021-01-10<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 工作细胞BLACK <code>はたらく細胞BLACK</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35041936.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>David Production</p>
-<h3> Time</h3>
-<p>2021-01-10<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt12150836</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2021-03-04</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3450,38 +1398,14 @@
     <title type="text">结城友奈是勇者 大满开之章 結城友奈は勇者である 大満開の章</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/35162855.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/35162855.html"/>
-    <updated>2023-02-05T13:35:29.069Z</updated>
+    <updated>2023-03-07T10:18:18.637Z</updated>
     <summary type="html"><![CDATA[<h1> 结城友奈是勇者 大满开之章 <code>結城友奈は勇者である 大満開の章</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35162855.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Studio Gokumi</p>
-<h3> Time</h3>
-<p>2021-10-01<code>JP</code></p>
 ]]></summary>
     <content type="html"><![CDATA[<h1> 结城友奈是勇者 大满开之章 <code>結城友奈は勇者である 大満開の章</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35162855.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Studio Gokumi</p>
-<h3> Time</h3>
-<p>2021-10-01<code>JP</code></p>
-<h3> Episodes</h3>
-<ul>
-<li>12集</li>
-</ul>
-<h3> IMDB</h3>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-10</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3490,47 +1414,14 @@
     <title type="text">堀与宫村 ホリミヤ</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/35205803.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/35205803.html"/>
-    <updated>2023-02-05T13:35:29.070Z</updated>
+    <updated>2023-03-07T10:18:18.639Z</updated>
     <summary type="html"><![CDATA[<h1> 堀与宫村 <code>ホリミヤ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35205803.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 堀与宫村 <code>ホリミヤ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35205803.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>在片桐高中上学的堀京子有着漂亮的外表，同时成绩优秀、家务万能。某天，受伤的弟弟创太被陌生的少年——也就是同班的阴暗男生，宫村伊澄送回了家。惊讶于在学校与家中的不同，被看到在家中的另一面的京子动摇了。而以关怀害羞怕生的创太为契机，宫村开始频繁的访问堀家。</p>
-<h3> Production company</h3>
-<p>CloverWorks</p>
-<h3> Time</h3>
-<p>2021-01-19<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt13103134</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>落尽红樱君不见，轻绘梨花泪沾衣。</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2023-01-15</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3539,45 +1430,14 @@
     <title type="text">间谍过家家 SPY×FAMILY</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/35258427.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/35258427.html"/>
-    <updated>2023-02-05T13:35:29.072Z</updated>
+    <updated>2023-03-07T10:18:18.641Z</updated>
     <summary type="html"><![CDATA[<h1> 间谍过家家 <code>SPY×FAMILY</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35258427.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<ul>
-<li>WIT STUDIO</li>
-<li>CloverWorks</li>
-</ul>
-<h3> Time</h3>
-<p>2022-04-09<code>JP</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 间谍过家家 <code>SPY×FAMILY</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35258427.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<ul>
-<li>WIT STUDIO</li>
-<li>CloverWorks</li>
-</ul>
-<h3> Time</h3>
-<p>2022-04-09<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt13706018</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-05-03</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3586,36 +1446,14 @@
     <title type="text">总之就是非常可爱 OVA トニカクカワイイ OVA</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/35296066.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/35296066.html"/>
-    <updated>2023-02-05T13:35:29.085Z</updated>
+    <updated>2023-03-07T10:18:18.642Z</updated>
     <summary type="html"><![CDATA[<h1> 总之就是非常可爱 OVA <code>トニカクカワイイ OVA</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35296066.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Seven Arcs</p>
-<h3> Time</h3>
-<p>2021-08-18<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 总之就是非常可爱 OVA <code>トニカクカワイイ OVA</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35296066.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>Seven Arcs</p>
-<h3> Time</h3>
-<p>2021-08-18<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt15296306</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-07</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3624,38 +1462,14 @@
     <title type="text">魔法科高校的劣等生 追忆篇 魔法科高校の劣等生 追憶編</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/35382655.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/35382655.html"/>
-    <updated>2023-02-05T13:35:29.099Z</updated>
+    <updated>2023-03-07T10:18:18.644Z</updated>
     <summary type="html"><![CDATA[<h1> 魔法科高校的劣等生 追忆篇 <code>魔法科高校の劣等生 追憶編</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35382655.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>8bit</p>
-<h3> Time</h3>
-<p>2021-12-31<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 魔法科高校的劣等生 追忆篇 <code>魔法科高校の劣等生 追憶編</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35382655.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>8bit</p>
-<h3> Time</h3>
-<p>2021-12-31<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-01-27</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3664,39 +1478,14 @@
     <title type="text">镜·双城 镜·双城 本传</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/35642666.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/35642666.html"/>
-    <updated>2023-02-05T13:35:29.101Z</updated>
+    <updated>2023-03-07T10:18:18.646Z</updated>
     <summary type="html"><![CDATA[<h1> 镜·双城 <code>镜·双城 本传</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35642666.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2021-11-15<code>CN</code></p>
-<h3> Episodes</h3>
-<p>18集</p>
-<h3> IMDB</h3>
-<h2> More</h2>
-<h4> Comment</h4>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 镜·双城 <code>镜·双城 本传</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35642666.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2021-11-15<code>CN</code></p>
-<h3> Episodes</h3>
-<p>18集</p>
-<h3> IMDB</h3>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-01-02</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3705,53 +1494,14 @@
     <title type="text">莉可丽丝 リコリス・リコイル</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/35722670.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/35722670.html"/>
-    <updated>2023-02-05T13:35:29.120Z</updated>
+    <updated>2023-03-07T10:18:18.649Z</updated>
     <summary type="html"><![CDATA[<h1> 莉可丽丝 <code>リコリス・リコイル</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35722670.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Story Summary</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 莉可丽丝 <code>リコリス・リコイル</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/35722670.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Story Summary</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<h4> Setting</h4>
-<p>DA，全称Direct Attack，是暗中守护现代日本和平、不同于日本警察的独立治安维护组织，虽与政府是合作关系，但不受政府指挥，有强大的特权，下设情报部等多个部门。其手下的少女特工名为“莉可丽丝<code>リコリス</code>”。莉可丽丝的前身是在设立明治政府前就已组成的暗杀部队“彼岸花”，除了前者外，还有“君影草”、“花葵”等部队；这三个部队上级为“八咫乌”。莉可丽丝拥有杀人许可，负责在事件发生前就处理掉犯罪者或恐怖分子。所属的Radiata系统能进行情报操作，使得DA以及莉可丽丝的存在不为社会知晓，也未曾对外公布。莉可丽丝所穿的制服颜色跟随其级别，首席为红色，次席为藏青色，末席为米白色。莉可丽丝的生日是以进入DA作为其生日。</p>
-<p>动画故事开始10年前，作为东京象征的“电波塔”被恐怖分子占领。当时年仅七岁的莉可丽丝锦木千束虽然凭一己之力摆平了所有恐怖分子，但电波塔仍然损毁严重。电波塔经过修复后被保留，成为“现代日本和平的象征”。在动画故事开始时，电波塔将被新落成的“延空木”取代。</p>
-<p>亚兰机关是跨足全球的神秘赞助机构，会找出受阻碍所苦的天才，并秘密地给予赞助。受亚兰机关赞助的人被称为“亚兰儿童”，会获得一个猫头鹰吊坠。亚兰机关认为，天才是神赐予的礼物，有将自己的才能送给世界的使命。</p>
-<h4> Plot</h4>
-<p>日本的治安连续8年位居世界第一，而在这表面的和平背后，是秘密组织“DA”（Direct Attack）暗地里防范犯罪于未然。隶属于DA的少女特工“莉可丽丝<code>リコリス</code>”，以学生制服隐身在都市中，负责处理未曾发生的犯罪。</p>
-<p>莉可丽丝井上泷奈因在任务中无视命令，而被调派到在伪装成东京老街和风咖啡厅“LycoReco<code>リコリコ</code>”的DA分部中，成为店员与性格乐天被誉为“史上最强莉可丽丝”的锦木千束搭档。虽然如此，LycoReco却常常接下跟莉可丽丝无关的工作，从普通地供应咖啡、甜品，以至于照顾小孩、帮忙买东西、教外国人日语，来者不拒。</p>
-<h3> Production Company</h3>
-<p>A-1 Pictures</p>
-<h3> Time</h3>
-<p>2022-07-02<code>JP</code></p>
-<h3> Episodes</h3>
-<p>13集</p>
-<h3> IMDB</h3>
-<p><code>tt16755706</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>两人共度的时光，与所选的未来。</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-07-24</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3760,32 +1510,14 @@
     <title type="text">CLANNAD ～AFTER STORY～另一个世界 杏篇 CLANNAD ～AFTER STORY～ もうひとつの世界 杏編</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/3927686.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/3927686.html"/>
-    <updated>2023-02-05T13:35:29.136Z</updated>
+    <updated>2023-03-07T10:18:18.650Z</updated>
     <summary type="html"><![CDATA[<h1> CLANNAD ～AFTER STORY～另一个世界 杏篇 <code>CLANNAD ～AFTER STORY～ もうひとつの世界 杏編</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/3927686.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2009-05-24<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> CLANNAD ～AFTER STORY～另一个世界 杏篇 <code>CLANNAD ～AFTER STORY～ もうひとつの世界 杏編</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/3927686.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2009-05-24<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt1468303</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-30</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3794,41 +1526,14 @@
     <title type="text">某科学的超电磁炮 とある科学の超電磁砲</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/4067827.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/4067827.html"/>
-    <updated>2023-02-05T13:35:29.152Z</updated>
+    <updated>2023-03-07T10:18:18.652Z</updated>
     <summary type="html"><![CDATA[<h1> 某科学的超电磁炮 <code>とある科学の超電磁砲</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/4067827.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2009-01-12<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 某科学的超电磁炮 <code>とある科学の超電磁砲</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/4067827.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2009-01-12<code>JP</code></p>
-<h3> Episodes</h3>
-<p>24集</p>
-<h3> IMDB</h3>
-<p><code>tt1515996</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>你指尖跃动的电光，是我此生不灭的信仰，唯我超电磁炮永世长存！</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2022-12-04</li>
-<li>Unknown</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3837,41 +1542,14 @@
     <title type="text">魔法禁书目录2 とある魔術の禁書目録Ⅱ</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/4848113.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/4848113.html"/>
-    <updated>2023-02-05T13:35:29.154Z</updated>
+    <updated>2023-03-07T10:18:18.653Z</updated>
     <summary type="html"><![CDATA[<h1> 魔法禁书目录2 <code>とある魔術の禁書目録Ⅱ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/4848113.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2010-10-08<code>JP</code></p>
-<h3> Episodes</h3>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 魔法禁书目录2 <code>とある魔術の禁書目録Ⅱ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/4848113.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>J.C.STAFF</p>
-<h3> Time</h3>
-<p>2010-10-08<code>JP</code></p>
-<h3> Episodes</h3>
-<p>24集</p>
-<h3> IMDB</h3>
-<p><code>tt1743667</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>在科学与魔法交织的世界，开创新时代</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［2］</h3>
-<ul>
-<li>2022-12-16</li>
-<li>Unknown</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3880,48 +1558,14 @@
     <title type="text">缘之空 ヨスガノソラ</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/4848114.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/4848114.html"/>
-    <updated>2023-02-05T13:35:29.167Z</updated>
+    <updated>2023-03-07T10:18:18.655Z</updated>
     <summary type="html"><![CDATA[<h1> 缘之空 <code>ヨスガノソラ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/4848114.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 缘之空 <code>ヨスガノソラ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/4848114.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Plot</h3>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>春日野悠和他的双胞胎妹妹穹在父母死于事故之后，来到了位于名叫奥木染町的小村的祖父的故居中，在那里开始新的生活。</p>
-<p>与在昔日到访奥木染时认识的天女目瑛和依媛奈绪重遇、认识了新的朋友、以及被妹妹所倚赖，就这样悠的新生活展开了。在看似安稳的日子里，很快悠注意到了对自己来说谁是重要的存在……</p>
-<h3> Production company</h3>
-<p>feel.</p>
-<h3> Time</h3>
-<p>2010-10-04<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt1743681</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<ul>
-<li>In solitude, where we are least alone.</li>
-</ul>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2020-06-13</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3930,38 +1574,14 @@
     <title type="text">魔法少女小圆 魔法少女まどか☆マギカ</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/5349275.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/5349275.html"/>
-    <updated>2023-02-05T13:35:29.169Z</updated>
+    <updated>2023-03-07T10:18:18.656Z</updated>
     <summary type="html"><![CDATA[<h1> 魔法少女小圆 <code>魔法少女まどか☆マギカ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/5349275.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>SHAFT</p>
-<h3> Time</h3>
-<p>2011-01-06<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 魔法少女小圆 <code>魔法少女まどか☆マギカ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/5349275.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Production company</h3>
-<p>SHAFT</p>
-<h3> Time</h3>
-<p>2011-01-06<code>JP</code></p>
-<h3> Episodes</h3>
-<p>12集</p>
-<h3> IMDB</h3>
-<p><code>tt1773185</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2023-01-08</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -3970,34 +1590,14 @@
     <title type="text">奇诺之旅：塔之国 -Free Lance- キノの旅 塔の国 -Free Lance-</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/5379966.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/5379966.html"/>
-    <updated>2023-02-05T13:35:29.172Z</updated>
+    <updated>2023-03-07T10:18:18.658Z</updated>
     <summary type="html"><![CDATA[<h1> 奇诺之旅：塔之国 -Free Lance- <code>キノの旅 塔の国 -Free Lance-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/5379966.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2005-03-20<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt16306650</code></p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 奇诺之旅：塔之国 -Free Lance- <code>キノの旅 塔の国 -Free Lance-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/5379966.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h3> Time</h3>
-<p>2005-03-20<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt16306650</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<ul>
-<li>2022-07-27</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
@@ -4006,107 +1606,16 @@
     <title type="text">萤火之森 蛍火の杜へ</title>
     <id>https://ssg.dmbcjx.com/zh/anime/list/5989818.html</id>
     <link href="https://ssg.dmbcjx.com/zh/anime/list/5989818.html"/>
-    <updated>2023-02-05T13:35:29.184Z</updated>
+    <updated>2023-03-07T10:18:18.660Z</updated>
     <summary type="html"><![CDATA[<h1> 萤火之森 <code>蛍火の杜へ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/5989818.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>迷路的少女萤无意间进入了妖怪居住的山神森林，遇见了戴着狐狸面具的少年银。奇异的旅途，就此展开。他们在每年夏日聚首，又分离，然而，彼此间的羁绊却随着时间，一点一滴在彼此生命的时间轴上，深深地刻划下痕迹。但是，唯一可惜的，是萤无法触碰银。被施加了法术的银，被人类触碰后，便会消失。</p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<h1> 萤火之森 <code>蛍火の杜へ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
-<figure><img src="/assets/anime/5989818.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<div class="hint-container info">
-<p class="hint-container-title">The content is taken from wikipedia</p>
-</div>
-<p>迷路的少女萤无意间进入了妖怪居住的山神森林，遇见了戴着狐狸面具的少年银。奇异的旅途，就此展开。他们在每年夏日聚首，又分离，然而，彼此间的羁绊却随着时间，一点一滴在彼此生命的时间轴上，深深地刻划下痕迹。但是，唯一可惜的，是萤无法触碰银。被施加了法术的银，被人类触碰后，便会消失。</p>
-<p>被带离森林的萤问银，因为过了许久而对方没有回答时又起了风，萤有些胆怯，匆匆的说明天会带谢礼过来，转身就跑开，这时银才回答。隔天，萤看到在等自己的银，忍不住兴奋而忘记不能碰触银而扑了过去，之后萤又被银用木棒打了一记。从此，萤每年都期待着夏天，每年都期待着能再见到阿银。年复一年，亭亭玉立的萤与阿银之间的情愫，逐渐滋长。</p>
-<p>在萤刚上高中那一年夏天，银邀请萤去妖怪的夏日祭典，虽然萤看过妖怪，但是在一大群妖怪中会有些害怕，银便说我会保护你的。晚上去赴约的萤和银一起参加祭典，祭典结束时他们如早上一般，漫步在丛林中，阿银对萤说话时摘下了自己的面具戴到萤的脸上，隔着面具吻了萤的脸，笑着表示要送给萤面具。</p>
-<p>这时有小孩从他们身边跑过，一个小男孩不小心绊倒，银出手拉住小男孩的手不让他跌倒，看着小男孩离开后发现自己的手在发光，萤看到后惊觉那个小孩是人类，银起初很惊讶，之后微笑的张开手臂表示他终于可以碰触到萤了，萤跑向银彼此拥抱并流下眼泪，过不到几秒，银消失了，萤抱着银的衣服痛哭。森林里的妖怪都很感谢萤，因为银终于能够碰触别人，终于可以被拥抱。</p>
-<h3> Production company</h3>
-<p>Brain's Base</p>
-<h3> Time</h3>
-<p>2011-09-17<code>JP</code></p>
-<h3> Episodes</h3>
-<h3> IMDB</h3>
-<p><code>tt2061702</code></p>
-<h2> More</h2>
-<h4> Comment</h4>
-<h4> Sentence</h4>
-<h2> Other</h2>
-<h3> Watch［1］</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">there is a possibility of error</p>
-</div>
-<ul>
-<li>2022-02-03</li>
-</ul>
-<h3> Repeat</h3>
 ]]></content>
     <category term="anime"/>
     <published>2023-01-31T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">莉可丽丝</title>
-    <id>https://ssg.dmbcjx.com/zh/potoforio/sakuhin/364450.html</id>
-    <link href="https://ssg.dmbcjx.com/zh/potoforio/sakuhin/364450.html"/>
-    <updated>2023-02-05T13:35:29.186Z</updated>
-    <summary type="html"><![CDATA[<h1> 莉可丽丝</h1>
-<figure><img src="https://img2.doubanio.com/view/photo/l_ratio_poster/public/p2826122941.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 莉可丽丝</h1>
-<figure><img src="https://img2.doubanio.com/view/photo/l_ratio_poster/public/p2826122941.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></content>
-    <category term="potoforio"/>
-    <published>2023-01-31T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">[2023][别当欧尼酱了！ 第四集][日本][日语中字][mkv/1.35G]</title>
-    <id>https://ssg.dmbcjx.com/zh/shigen/197534.html</id>
-    <link href="https://ssg.dmbcjx.com/zh/shigen/197534.html"/>
-    <updated>2023-02-05T13:35:29.205Z</updated>
-    <summary type="html"><![CDATA[<h1> [2023][别当欧尼酱了！ 第四集][日本][日语中字][mkv/1.35G]</h1>
-<blockquote>
-<p>压制：dmbcjl</p>
-<p>中文字幕：桜都字幕组</p>
-</blockquote>
-<figure><img src="https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884743880.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>◎译　　名　别当欧尼酱了！/不当哥哥了！/哥哥要完了！</p>]]></summary>
-    <content type="html"><![CDATA[<h1> [2023][别当欧尼酱了！ 第四集][日本][日语中字][mkv/1.35G]</h1>
-<blockquote>
-<p>压制：dmbcjl</p>
-<p>中文字幕：桜都字幕组</p>
-</blockquote>
-<figure><img src="https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2884743880.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>◎译　　名　别当欧尼酱了！/不当哥哥了！/哥哥要完了！</p>
-<p>◎片　　名　お兄ちゃんはおしまい！</p>
-<p>◎年　　代　2023</p>
-<p>◎产　　地　日本</p>
-<p>◎类　　别　喜剧 / 动画</p>
-<p>◎语　　言　日语</p>
-<p>◎上映日期　2023-01-05(日本)</p>
-<p>◎豆瓣评分　8.5/10 from 646 users</p>
-<p>◎豆瓣链接　<a href="https://movie.douban.com/subject/35880801/" target="_blank" rel="noopener noreferrer">https://movie.douban.com/subject/35880801/</a></p>
-<p>◎片　　长　24分钟</p>
-<p>◎导　　演　藤井慎吾 Fujii Shingo</p>
-<p>◎编　　剧　横手美智子 Michiko Yokote</p>
-<p>◎主　　演　高野麻里佳 Marika Kouno
-　　　　  　石原夏织 Kaori Ishihara
-　　　　  　金元寿子 Hisako Kanemoto
-　　　　  　津田美波 Minami Tsuda
-　　　　  　日冈夏美 Natsumi Hioka
-　　　　  　优木加奈 Kana Yūki</p>
-<p>◎简　　介</p>
-<p>暂无相关剧情介绍
-<img src="https://p.sda1.dev/9/e0fbdbbb800f8be5ed0532974debb510/_Sakura_ Onii-chan wa Oshimai! - 04 _1080p_.mkv.png" alt="" loading="lazy"></p>
-<hr>
-<p>[Sakura] Onii-chan wa Os...ai! - 04 [1080p]
-<a href="https://www.aliyundrive.com/s/LhsCfpHnjyS" target="_blank" rel="noopener noreferrer">https://www.aliyundrive.com/s/LhsCfpHnjyS</a> 提取码：WWKx</p>
-]]></content>
-    <category term="shigen"/>
-    <published>2023-01-30T00:00:00.000Z</published>
   </entry>
 </feed>

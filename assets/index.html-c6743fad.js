@@ -1,1 +1,0 @@
-import{_ as o,V as t,W as n,a1 as a,G as c}from"./framework-e4dbde6e.js";const s={};function r(_,l){const e=c("AutoCatalog");return t(),n("div",null,[a(e,{base:"/zh/potoforio/sakuhin/"})])}const f=o(s,[["render",r],["__file","index.html.vue"]]);export{f as default};

@@ -1,1 +1,0 @@
-import{_ as t,V as o,W as n,a1 as a,G as c}from"./framework-e4dbde6e.js";const s={};function _(l,r){const e=c("AutoCatalog");return o(),n("div",null,[a(e,{base:"/zh/anime/list/"})])}const m=t(s,[["render",_],["__file","index.html.vue"]]);export{m as default};

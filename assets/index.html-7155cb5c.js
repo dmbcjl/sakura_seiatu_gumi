@@ -1,0 +1,1 @@
+import{_ as t,W as o,X as n,a2 as a,C as c}from"./framework-989bd804.js";const s={};function _(l,r){const e=c("AutoCatalog");return o(),n("div",null,[a(e,{base:"/zh/anime/list/"})])}const m=t(s,[["render",_],["__file","index.html.vue"]]);export{m as default};
