@@ -1,0 +1,1 @@
+import{_ as o,W as t,X as n,$ as a,C as c}from"./framework-3e357a3a.js";const r={};function s(_,l){const e=c("AutoCatalog");return t(),n("div",null,[a(e,{base:"/zh/potoforio/"})])}const i=o(r,[["render",s],["__file","index.html.vue"]]);export{i as default};

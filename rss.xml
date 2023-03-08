@@ -6,8 +6,8 @@
     <link>https://ssg.dmbcjx.com/</link>
     <description>Constantly explore the connection between anime and reality</description>
     <language>en-US</language>
-    <pubDate>Tue, 07 Mar 2023 10:18:18 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Mar 2023 10:18:18 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Mar 2023 11:00:30 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Mar 2023 11:00:30 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>anime</category>
@@ -82,14 +82,13 @@
       <link>https://ssg.dmbcjx.com/anime/leaderboard.html</link>
       <guid>https://ssg.dmbcjx.com/anime/leaderboard.html</guid>
       <source url="https://ssg.dmbcjx.com/rss.xml">PPFP Leaderboard</source>
-      <description>::: warning There is a possibility of error ::: {{ datum.name }} PPFP:{{ datum.ppfp }} let data = [ { id: 1297359, name: &amp;quot;Mononoke-hime&amp;quot;, ppfp: [2,3,2,2], }, { id: 1512037, name...</description>
+      <description>::: warning There is a possibility of error :::</description>
       <category>anime</category>
       <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> <code>PPFP</code> Leaderboard</h1>
 <div class="hint-container warning">
 <p class="hint-container-title">There is a possibility of error</p>
 </div>
-<ol><li v-for="datum in data"><a :href="'/anime/list/'+datum.id+'.html'" class="">{{ datum.name }} <code>PPFP</code>:{{ datum.ppfp }}</a></li></ol>
 ]]></content:encoded>
     </item>
     <item>
@@ -708,7 +707,7 @@
       <link>https://ssg.dmbcjx.com/anime/list/27107140.html</link>
       <guid>https://ssg.dmbcjx.com/anime/list/27107140.html</guid>
       <source url="https://ssg.dmbcjx.com/rss.xml">Kimi no suizô o tabetai 君の膵臓をたべたい</source>
-      <description>Info Poster Production Companystudio VOLN; Time 2018-09-01JP Episodes IMDB tt7236034 More Comment Sentence Other Watch［1］2023-02-25; Repeat</description>
+      <description>Info Poster Production Companystudio VOLN; Time 2018-09-01JP Episodes IMDB tt7236034 More Comment Sentence Other Watch［2］2023-02-25; 2023-03-07; Repeat</description>
       <category>anime</category>
       <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Kimi no suizô o tabetai <code>君の膵臓をたべたい</code></h1>

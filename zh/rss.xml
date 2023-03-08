@@ -6,8 +6,8 @@
     <link>https://ssg.dmbcjx.com/zh/</link>
     <description>不断探索动漫与现实的联系</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Mar 2023 10:18:18 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Mar 2023 10:18:18 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Mar 2023 11:00:30 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Mar 2023 11:00:30 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>anime</category>
@@ -95,14 +95,13 @@
       <link>https://ssg.dmbcjx.com/zh/anime/leaderboard.html</link>
       <guid>https://ssg.dmbcjx.com/zh/anime/leaderboard.html</guid>
       <source url="https://ssg.dmbcjx.com/zh/rss.xml">PPFP Leaderboard</source>
-      <description>::: warning There is a possibility of error ::: {{ datum.name }} PPFP:{{ datum.ppfp }} let data = [ { id: 1297359, name: &amp;quot;幽灵公主&amp;quot;, ppfp: [2,3,2,2], }, { id: 1512037, name: &amp;quot;奇诺之旅&amp;quot;,...</description>
+      <description>::: warning There is a possibility of error :::</description>
       <category>anime</category>
       <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> <code>PPFP</code> Leaderboard</h1>
 <div class="hint-container warning">
 <p class="hint-container-title">There is a possibility of error</p>
 </div>
-<ol><li v-for="datum in data"><a :href="'/zh/anime/list/'+datum.id+'.html'" class="">{{ datum.name }} <code>PPFP</code>:{{ datum.ppfp }}</a></li></ol>
 ]]></content:encoded>
     </item>
     <item>
