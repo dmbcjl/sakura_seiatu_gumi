@@ -3,17 +3,33 @@
   <id>https://ssg.dmbcjx.com/</id>
   <title>Sakura Seiatu Gumi</title>
   <subtitle>Constantly explore the connection between anime and reality</subtitle>
-  <updated>2023-03-09T03:37:01.033Z</updated>
+  <updated>2023-03-09T11:09:12.361Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://ssg.dmbcjx.com/atom.xml"/>
   <link rel="alternate" href="https://ssg.dmbcjx.com/"/>
   <category term="anime"/>
   <category term="potoforio"/>
   <entry>
+    <title type="text">Ano hi mita hana no namae o bokutachi wa mada shiranai. あの日見た花の名前を僕達はまだ知らない。</title>
+    <id>https://ssg.dmbcjx.com/anime/list/5397537.html</id>
+    <link href="https://ssg.dmbcjx.com/anime/list/5397537.html"/>
+    <updated>2023-03-09T11:09:12.432Z</updated>
+    <summary type="html"><![CDATA[<h1> Ano hi mita hana no namae o bokutachi wa mada shiranai. <code>あの日見た花の名前を僕達はまだ知らない。</code></h1>
+<h2> Info</h2>
+<h3> Poster</h3>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Ano hi mita hana no namae o bokutachi wa mada shiranai. <code>あの日見た花の名前を僕達はまだ知らない。</code></h1>
+<h2> Info</h2>
+<h3> Poster</h3>
+]]></content>
+    <category term="anime"/>
+    <published>2023-03-09T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">Bloom Into You やがて君になる</title>
     <id>https://ssg.dmbcjx.com/anime/list/30206427.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/30206427.html"/>
-    <updated>2023-03-09T03:37:01.112Z</updated>
+    <updated>2023-03-09T11:09:12.441Z</updated>
     <summary type="html"><![CDATA[<h1> Bloom Into You <code>やがて君になる</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -26,24 +42,10 @@
     <published>2023-03-08T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">Oniichan wa Oshimai!</title>
-    <id>https://ssg.dmbcjx.com/potoforio/sakuhin/378862.html</id>
-    <link href="https://ssg.dmbcjx.com/potoforio/sakuhin/378862.html"/>
-    <updated>2023-03-09T03:37:01.135Z</updated>
-    <summary type="html"><![CDATA[<h1> Oniichan wa Oshimai!</h1>
-<figure><img src="https://p.sda1.dev/9/7ae2ca7c63db662dfe9cd2a59adcb542/image.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></summary>
-    <content type="html"><![CDATA[<h1> Oniichan wa Oshimai!</h1>
-<figure><img src="https://p.sda1.dev/9/7ae2ca7c63db662dfe9cd2a59adcb542/image.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></content>
-    <category term="potoforio"/>
-    <published>2023-02-25T00:00:00.000Z</published>
-  </entry>
-  <entry>
     <title type="text">Koe no katachi 聲の形</title>
     <id>https://ssg.dmbcjx.com/anime/list/26264454.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26264454.html"/>
-    <updated>2023-03-09T03:37:01.157Z</updated>
+    <updated>2023-03-09T11:09:12.471Z</updated>
     <summary type="html"><![CDATA[<h1> Koe no katachi <code>聲の形</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -56,10 +58,24 @@
     <published>2023-02-25T00:00:00.000Z</published>
   </entry>
   <entry>
+    <title type="text">Oniichan wa Oshimai!</title>
+    <id>https://ssg.dmbcjx.com/potoforio/sakuhin/378862.html</id>
+    <link href="https://ssg.dmbcjx.com/potoforio/sakuhin/378862.html"/>
+    <updated>2023-03-09T11:09:12.493Z</updated>
+    <summary type="html"><![CDATA[<h1> Oniichan wa Oshimai!</h1>
+<figure><img src="https://p.sda1.dev/9/7ae2ca7c63db662dfe9cd2a59adcb542/image.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></summary>
+    <content type="html"><![CDATA[<h1> Oniichan wa Oshimai!</h1>
+<figure><img src="https://p.sda1.dev/9/7ae2ca7c63db662dfe9cd2a59adcb542/image.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content>
+    <category term="potoforio"/>
+    <published>2023-02-25T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">Hibike! Euphonium S02 響け！ユーフォニアム2</title>
     <id>https://ssg.dmbcjx.com/anime/list/26655961.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26655961.html"/>
-    <updated>2023-03-09T03:37:01.164Z</updated>
+    <updated>2023-03-09T11:09:12.499Z</updated>
     <summary type="html"><![CDATA[<h1> Hibike! Euphonium S02 <code>響け！ユーフォニアム2</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -75,7 +91,7 @@
     <title type="text">Rizu to aoi tori リズと青い鳥</title>
     <id>https://ssg.dmbcjx.com/anime/list/27062637.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27062637.html"/>
-    <updated>2023-03-09T03:37:01.179Z</updated>
+    <updated>2023-03-09T11:09:12.512Z</updated>
     <summary type="html"><![CDATA[<h1> Rizu to aoi tori <code>リズと青い鳥</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -91,7 +107,7 @@
     <title type="text">Sayonara no asa ni yakusoku no hana o kazarô さよならの朝に約束の花をかざろう</title>
     <id>https://ssg.dmbcjx.com/anime/list/27083561.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27083561.html"/>
-    <updated>2023-03-09T03:37:01.195Z</updated>
+    <updated>2023-03-09T11:09:12.527Z</updated>
     <summary type="html"><![CDATA[<h1> Sayonara no asa ni yakusoku no hana o kazarô <code>さよならの朝に約束の花をかざろう</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -107,7 +123,7 @@
     <title type="text">PPFP Leaderboard</title>
     <id>https://ssg.dmbcjx.com/anime/leaderboard.html</id>
     <link href="https://ssg.dmbcjx.com/anime/leaderboard.html"/>
-    <updated>2023-03-09T03:37:01.198Z</updated>
+    <updated>2023-03-09T11:09:12.529Z</updated>
     <summary type="html"><![CDATA[<h1> <code>PPFP</code> Leaderboard</h1>
 <div class="hint-container warning">
 <p class="hint-container-title">There is a possibility of error</p>
@@ -125,7 +141,7 @@
     <title type="text">Summer Ghost サマーゴースト</title>
     <id>https://ssg.dmbcjx.com/anime/list/35368245.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/35368245.html"/>
-    <updated>2023-03-09T03:37:01.204Z</updated>
+    <updated>2023-03-09T11:09:12.533Z</updated>
     <summary type="html"><![CDATA[<h1> Summer Ghost <code>サマーゴースト</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -141,7 +157,7 @@
     <title type="text">Angel Beats! Angel Beats!</title>
     <id>https://ssg.dmbcjx.com/anime/list/4202090.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/4202090.html"/>
-    <updated>2023-03-09T03:37:01.210Z</updated>
+    <updated>2023-03-09T11:09:12.538Z</updated>
     <summary type="html"><![CDATA[<h1> Angel Beats! <code>Angel Beats!</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -157,7 +173,7 @@
     <title type="text">Clannad CLANNAD -クラナド-</title>
     <id>https://ssg.dmbcjx.com/anime/list/2277181.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/2277181.html"/>
-    <updated>2023-03-09T03:37:01.214Z</updated>
+    <updated>2023-03-09T11:09:12.541Z</updated>
     <summary type="html"><![CDATA[<h1> Clannad <code>CLANNAD -クラナド-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -170,24 +186,10 @@
     <published>2023-02-01T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">Lycoris Recoil</title>
-    <id>https://ssg.dmbcjx.com/potoforio/sakuhin/364450.html</id>
-    <link href="https://ssg.dmbcjx.com/potoforio/sakuhin/364450.html"/>
-    <updated>2023-03-09T03:37:01.216Z</updated>
-    <summary type="html"><![CDATA[<h1> Lycoris Recoil</h1>
-<figure><img src="https://img2.doubanio.com/view/photo/l_ratio_poster/public/p2826122941.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></summary>
-    <content type="html"><![CDATA[<h1> Lycoris Recoil</h1>
-<figure><img src="https://img2.doubanio.com/view/photo/l_ratio_poster/public/p2826122941.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></content>
-    <category term="potoforio"/>
-    <published>2023-01-31T00:00:00.000Z</published>
-  </entry>
-  <entry>
     <title type="text">Gekijou-ban Mahou Shoujo Madoka*Magica: [Zenpen] Hajimari no monogatari 劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</title>
     <id>https://ssg.dmbcjx.com/anime/list/10174444.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/10174444.html"/>
-    <updated>2023-03-09T03:37:01.220Z</updated>
+    <updated>2023-03-09T11:09:12.545Z</updated>
     <summary type="html"><![CDATA[<h1> Gekijou-ban Mahou Shoujo Madoka*Magica: [Zenpen] Hajimari no monogatari <code>劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -203,7 +205,7 @@
     <title type="text">Shin Sekai Yori 新世界より</title>
     <id>https://ssg.dmbcjx.com/anime/list/10527275.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/10527275.html"/>
-    <updated>2023-03-09T03:37:01.226Z</updated>
+    <updated>2023-03-09T11:09:12.551Z</updated>
     <summary type="html"><![CDATA[<h1> Shin Sekai Yori <code>新世界より</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -219,7 +221,7 @@
     <title type="text">Gekijou-ban Mahou Shoujo Madoka*Magica: [Kouhen] Eien no monogatari 劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</title>
     <id>https://ssg.dmbcjx.com/anime/list/10569150.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/10569150.html"/>
-    <updated>2023-03-09T03:37:01.230Z</updated>
+    <updated>2023-03-09T11:09:12.554Z</updated>
     <summary type="html"><![CDATA[<h1> Gekijou-ban Mahou Shoujo Madoka*Magica: [Kouhen] Eien no monogatari <code>劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -235,7 +237,7 @@
     <title type="text">Gekijouban Mahou shojo Madoka magika Shinpen: Hangyaku no monogatari 劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</title>
     <id>https://ssg.dmbcjx.com/anime/list/10569151.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/10569151.html"/>
-    <updated>2023-03-09T03:37:01.235Z</updated>
+    <updated>2023-03-09T11:09:12.558Z</updated>
     <summary type="html"><![CDATA[<h1> Gekijouban Mahou shojo Madoka magika Shinpen: Hangyaku no monogatari <code>劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -251,7 +253,7 @@
     <title type="text">Gekijouban Toaru majutsu no indekkusu: Endyumion no kiseki とある魔術の禁書目録 エンデュミオンの奇蹟。</title>
     <id>https://ssg.dmbcjx.com/anime/list/10788833.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/10788833.html"/>
-    <updated>2023-03-09T03:37:01.239Z</updated>
+    <updated>2023-03-09T11:09:12.563Z</updated>
     <summary type="html"><![CDATA[<h1> Gekijouban Toaru majutsu no indekkusu: Endyumion no kiseki <code>とある魔術の禁書目録 エンデュミオンの奇蹟。</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -267,7 +269,7 @@
     <title type="text">Chuunibyou demo koi ga shitai! S01 中二病でも恋がしたい！</title>
     <id>https://ssg.dmbcjx.com/anime/list/11226092.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/11226092.html"/>
-    <updated>2023-03-09T03:37:01.242Z</updated>
+    <updated>2023-03-09T11:09:12.567Z</updated>
     <summary type="html"><![CDATA[<h1> Chuunibyou demo koi ga shitai! S01 <code>中二病でも恋がしたい！</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -283,7 +285,7 @@
     <title type="text">Kyoukai no kanata 境界の彼方</title>
     <id>https://ssg.dmbcjx.com/anime/list/11226094.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/11226094.html"/>
-    <updated>2023-03-09T03:37:01.248Z</updated>
+    <updated>2023-03-09T11:09:12.572Z</updated>
     <summary type="html"><![CDATA[<h1> Kyoukai no kanata <code>境界の彼方</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -299,7 +301,7 @@
     <title type="text">Kino no tabi キノの旅 -the Beautiful World-</title>
     <id>https://ssg.dmbcjx.com/anime/list/1512037.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/1512037.html"/>
-    <updated>2023-03-09T03:37:01.252Z</updated>
+    <updated>2023-03-09T11:09:12.576Z</updated>
     <summary type="html"><![CDATA[<h1> Kino no tabi <code>キノの旅 -the Beautiful World-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -315,7 +317,7 @@
     <title type="text">Kino no tabi: Life goes on キノの旅 何かをするために -life goes on.-</title>
     <id>https://ssg.dmbcjx.com/anime/list/1868515.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/1868515.html"/>
-    <updated>2023-03-09T03:37:01.256Z</updated>
+    <updated>2023-03-09T11:09:12.581Z</updated>
     <summary type="html"><![CDATA[<h1> Kino no tabi: Life goes on <code>キノの旅 何かをするために -life goes on.-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -331,7 +333,7 @@
     <title type="text">To aru kagaku no rêrugan S02 とある科学の超電磁砲S</title>
     <id>https://ssg.dmbcjx.com/anime/list/20266747.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/20266747.html"/>
-    <updated>2023-03-09T03:37:01.261Z</updated>
+    <updated>2023-03-09T11:09:12.585Z</updated>
     <summary type="html"><![CDATA[<h1> To aru kagaku no rêrugan S02 <code>とある科学の超電磁砲S</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -347,7 +349,7 @@
     <title type="text">Chuunibyou demo koi ga shitai! Lite 中二病でも恋がしたい！ Lite</title>
     <id>https://ssg.dmbcjx.com/anime/list/20285251.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/20285251.html"/>
-    <updated>2023-03-09T03:37:01.266Z</updated>
+    <updated>2023-03-09T11:09:12.588Z</updated>
     <summary type="html"><![CDATA[<h1> Chuunibyou demo koi ga shitai! Lite <code>中二病でも恋がしたい！ Lite</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -363,7 +365,7 @@
     <title type="text">Gekijô ban kino no tabi: Byôki no kuni - For you キノの旅 病気の国 -For You-</title>
     <id>https://ssg.dmbcjx.com/anime/list/2043171.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/2043171.html"/>
-    <updated>2023-03-09T03:37:01.270Z</updated>
+    <updated>2023-03-09T11:09:12.593Z</updated>
     <summary type="html"><![CDATA[<h1> Gekijô ban kino no tabi: Byôki no kuni - For you <code>キノの旅 病気の国 -For You-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -379,7 +381,7 @@
     <title type="text">Tamako Market たまこまーけっと</title>
     <id>https://ssg.dmbcjx.com/anime/list/20514713.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/20514713.html"/>
-    <updated>2023-03-09T03:37:01.274Z</updated>
+    <updated>2023-03-09T11:09:12.597Z</updated>
     <summary type="html"><![CDATA[<h1> Tamako Market <code>たまこまーけっと</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -395,7 +397,7 @@
     <title type="text">Chuunibyou demo koi ga shitai! S02 中二病でも恋がしたい！戀</title>
     <id>https://ssg.dmbcjx.com/anime/list/24532217.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/24532217.html"/>
-    <updated>2023-03-09T03:37:01.279Z</updated>
+    <updated>2023-03-09T11:09:12.602Z</updated>
     <summary type="html"><![CDATA[<h1> Chuunibyou demo koi ga shitai! S02 <code>中二病でも恋がしたい！戀</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -411,7 +413,7 @@
     <title type="text">Mahouka koukou no rettousei S01 魔法科高校の劣等生</title>
     <id>https://ssg.dmbcjx.com/anime/list/25741564.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/25741564.html"/>
-    <updated>2023-03-09T03:37:01.283Z</updated>
+    <updated>2023-03-09T11:09:12.606Z</updated>
     <summary type="html"><![CDATA[<h1> Mahouka koukou no rettousei S01 <code>魔法科高校の劣等生</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -427,7 +429,7 @@
     <title type="text">Tamako rabu sutôrî たまこラブストーリー</title>
     <id>https://ssg.dmbcjx.com/anime/list/25796222.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/25796222.html"/>
-    <updated>2023-03-09T03:37:01.286Z</updated>
+    <updated>2023-03-09T11:09:12.610Z</updated>
     <summary type="html"><![CDATA[<h1> Tamako rabu sutôrî <code>たまこラブストーリー</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -443,7 +445,7 @@
     <title type="text">Sora No Method 天体のメソッド</title>
     <id>https://ssg.dmbcjx.com/anime/list/25848280.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/25848280.html"/>
-    <updated>2023-03-09T03:37:01.290Z</updated>
+    <updated>2023-03-09T11:09:12.615Z</updated>
     <summary type="html"><![CDATA[<h1> Sora No Method <code>天体のメソッド</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -459,7 +461,7 @@
     <title type="text">Shigatsu wa kimi no uso 四月は君の嘘</title>
     <id>https://ssg.dmbcjx.com/anime/list/25851655.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/25851655.html"/>
-    <updated>2023-03-09T03:37:01.300Z</updated>
+    <updated>2023-03-09T11:09:12.620Z</updated>
     <summary type="html"><![CDATA[<h1> Shigatsu wa kimi no uso <code>四月は君の嘘</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -475,7 +477,7 @@
     <title type="text">Bangai hen: Ichinenmae no dekigoto CLANNAD 〜AFTER STORY〜 番外編 一年前の出来事</title>
     <id>https://ssg.dmbcjx.com/anime/list/25909237.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/25909237.html"/>
-    <updated>2023-03-09T03:37:01.303Z</updated>
+    <updated>2023-03-09T11:09:12.623Z</updated>
     <summary type="html"><![CDATA[<h1> Bangai hen: Ichinenmae no dekigoto <code>CLANNAD 〜AFTER STORY〜 番外編 一年前の出来事</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -491,7 +493,7 @@
     <title type="text">Gakkô-gurashi! がっこうぐらし！</title>
     <id>https://ssg.dmbcjx.com/anime/list/25911592.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/25911592.html"/>
-    <updated>2023-03-09T03:37:01.309Z</updated>
+    <updated>2023-03-09T11:09:12.633Z</updated>
     <summary type="html"><![CDATA[<h1> Gakkô-gurashi! <code>がっこうぐらし！</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -507,7 +509,7 @@
     <title type="text">Yuuki Yuuna wa yuusha de aru S01 結城友奈は勇者である</title>
     <id>https://ssg.dmbcjx.com/anime/list/25937952.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/25937952.html"/>
-    <updated>2023-03-09T03:37:01.322Z</updated>
+    <updated>2023-03-09T11:09:12.635Z</updated>
     <summary type="html"><![CDATA[<h1> Yuuki Yuuna wa yuusha de aru S01 <code>結城友奈は勇者である</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -523,7 +525,7 @@
     <title type="text">Purasutikku Memorîzu プラスティック･メモリーズ</title>
     <id>https://ssg.dmbcjx.com/anime/list/26035165.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26035165.html"/>
-    <updated>2023-03-09T03:37:01.328Z</updated>
+    <updated>2023-03-09T11:09:12.639Z</updated>
     <summary type="html"><![CDATA[<h1> Purasutikku Memorîzu <code>プラスティック･メモリーズ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -539,7 +541,7 @@
     <title type="text">Hibike! Euphonium S01 響け！ユーフォニアム</title>
     <id>https://ssg.dmbcjx.com/anime/list/26169716.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26169716.html"/>
-    <updated>2023-03-09T03:37:01.331Z</updated>
+    <updated>2023-03-09T11:09:12.643Z</updated>
     <summary type="html"><![CDATA[<h1> Hibike! Euphonium S01 <code>響け！ユーフォニアム</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -555,7 +557,7 @@
     <title type="text">Shigatsu wa Kimi no Uso OAD: MOMENTS 四月は君の嘘 OAD MOMENTS</title>
     <id>https://ssg.dmbcjx.com/anime/list/26235257.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26235257.html"/>
-    <updated>2023-03-09T03:37:01.334Z</updated>
+    <updated>2023-03-09T11:09:12.645Z</updated>
     <summary type="html"><![CDATA[<h1> Shigatsu wa Kimi no Uso OAD: MOMENTS <code>四月は君の嘘 OAD MOMENTS</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -571,7 +573,7 @@
     <title type="text">Kyôkai no Kanata: mirai-hen 劇場版 境界の彼方 I’LL BE HERE 未来篇</title>
     <id>https://ssg.dmbcjx.com/anime/list/26273481.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26273481.html"/>
-    <updated>2023-03-09T03:37:01.337Z</updated>
+    <updated>2023-03-09T11:09:12.648Z</updated>
     <summary type="html"><![CDATA[<h1> Kyôkai no Kanata: mirai-hen <code>劇場版 境界の彼方 I’LL BE HERE 未来篇</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -587,7 +589,7 @@
     <title type="text">Himouto! Umaruchan S01 干物妹! うまるちゃん</title>
     <id>https://ssg.dmbcjx.com/anime/list/26282460.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26282460.html"/>
-    <updated>2023-03-09T03:37:01.340Z</updated>
+    <updated>2023-03-09T11:09:12.650Z</updated>
     <summary type="html"><![CDATA[<h1> Himouto! Umaruchan S01 <code>干物妹! うまるちゃん</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -603,7 +605,7 @@
     <title type="text">Charlotte Charlotte（シャーロット）</title>
     <id>https://ssg.dmbcjx.com/anime/list/26287800.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26287800.html"/>
-    <updated>2023-03-09T03:37:01.345Z</updated>
+    <updated>2023-03-09T11:09:12.653Z</updated>
     <summary type="html"><![CDATA[<h1> Charlotte <code>Charlotte（シャーロット）</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -619,7 +621,7 @@
     <title type="text">Charlotte E14 Charlotte(シャーロット) 特別篇 強い者たち</title>
     <id>https://ssg.dmbcjx.com/anime/list/26606686.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26606686.html"/>
-    <updated>2023-03-09T03:37:01.348Z</updated>
+    <updated>2023-03-09T11:09:12.656Z</updated>
     <summary type="html"><![CDATA[<h1> Charlotte E14 <code>Charlotte(シャーロット) 特別篇 強い者たち</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -635,7 +637,7 @@
     <title type="text">Gekijôban Hibike! Euphonium: Kitauji kôkô suisôgaku-bu e yokoso 劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～</title>
     <id>https://ssg.dmbcjx.com/anime/list/26655962.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26655962.html"/>
-    <updated>2023-03-09T03:37:01.351Z</updated>
+    <updated>2023-03-09T11:09:12.659Z</updated>
     <summary type="html"><![CDATA[<h1> Gekijôban Hibike! Euphonium: Kitauji kôkô suisôgaku-bu e yokoso <code>劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -651,7 +653,7 @@
     <title type="text">Kimi no na wa. 君の名は。</title>
     <id>https://ssg.dmbcjx.com/anime/list/26683290.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26683290.html"/>
-    <updated>2023-03-09T03:37:01.357Z</updated>
+    <updated>2023-03-09T11:09:12.663Z</updated>
     <summary type="html"><![CDATA[<h1> Kimi no na wa. <code>君の名は。</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -667,7 +669,7 @@
     <title type="text">Eromanga Sensei エロマンガ先生</title>
     <id>https://ssg.dmbcjx.com/anime/list/26746533.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26746533.html"/>
-    <updated>2023-03-09T03:37:01.360Z</updated>
+    <updated>2023-03-09T11:09:12.665Z</updated>
     <summary type="html"><![CDATA[<h1> Eromanga Sensei <code>エロマンガ先生</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -683,7 +685,7 @@
     <title type="text">Gekijouban Mahouka koukou no rettousei: Hoshi o yobu shoujo 劇場版 魔法科高校の劣等生 星を呼ぶ少女</title>
     <id>https://ssg.dmbcjx.com/anime/list/26751897.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26751897.html"/>
-    <updated>2023-03-09T03:37:01.362Z</updated>
+    <updated>2023-03-09T11:09:12.667Z</updated>
     <summary type="html"><![CDATA[<h1> Gekijouban Mahouka koukou no rettousei: Hoshi o yobu shoujo <code>劇場版 魔法科高校の劣等生 星を呼ぶ少女</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -699,7 +701,7 @@
     <title type="text">Violet Evergarden ヴァイオレット・エヴァーガーデン</title>
     <id>https://ssg.dmbcjx.com/anime/list/26805209.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26805209.html"/>
-    <updated>2023-03-09T03:37:01.364Z</updated>
+    <updated>2023-03-09T11:09:12.670Z</updated>
     <summary type="html"><![CDATA[<h1> Violet Evergarden <code>ヴァイオレット・エヴァーガーデン</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -715,7 +717,7 @@
     <title type="text">Yuuki Yuuna wa yuusha de aru S02 結城友奈は勇者である -鷲尾須美の章-/-勇者の章-</title>
     <id>https://ssg.dmbcjx.com/anime/list/26902081.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26902081.html"/>
-    <updated>2023-03-09T03:37:01.367Z</updated>
+    <updated>2023-03-09T11:09:12.672Z</updated>
     <summary type="html"><![CDATA[<h1> Yuuki Yuuna wa yuusha de aru S02 <code>結城友奈は勇者である -鷲尾須美の章-/-勇者の章-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -731,7 +733,7 @@
     <title type="text">Yuuki Yuuna wa yuusha de aru: Washio Sumi no shou dai-1-shou &amp;apos;Tomodachi&amp;apos; 結城友奈は勇者である -鷲尾須美の章- 第1章 ともだち</title>
     <id>https://ssg.dmbcjx.com/anime/list/26907369.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26907369.html"/>
-    <updated>2023-03-09T03:37:01.368Z</updated>
+    <updated>2023-03-09T11:09:12.674Z</updated>
     <summary type="html"><![CDATA[<h1> Yuuki Yuuna wa yuusha de aru: Washio Sumi no shou dai-1-shou 'Tomodachi' <code>結城友奈は勇者である -鷲尾須美の章- 第1章 ともだち</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -747,7 +749,7 @@
     <title type="text">Gekijô ban kino no tabi: haikyo no kuni キノの旅 廃墟の国</title>
     <id>https://ssg.dmbcjx.com/anime/list/26975491.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26975491.html"/>
-    <updated>2023-03-09T03:37:01.371Z</updated>
+    <updated>2023-03-09T11:09:12.676Z</updated>
     <summary type="html"><![CDATA[<h1> Gekijô ban kino no tabi: haikyo no kuni <code>キノの旅 廃墟の国</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -763,7 +765,7 @@
     <title type="text">Kino no tabi キノの旅 -the Beautiful World- the Animated Series</title>
     <id>https://ssg.dmbcjx.com/anime/list/26994753.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26994753.html"/>
-    <updated>2023-03-09T03:37:01.373Z</updated>
+    <updated>2023-03-09T11:09:12.678Z</updated>
     <summary type="html"><![CDATA[<h1> Kino no tabi <code>キノの旅 -the Beautiful World- the Animated Series</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -779,7 +781,7 @@
     <title type="text">Gekijouban Hibike! Euphonium: Todoketai Melody 劇場版 響け！ユーフォニアム～届けたいメロディ～</title>
     <id>https://ssg.dmbcjx.com/anime/list/26994755.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/26994755.html"/>
-    <updated>2023-03-09T03:37:01.376Z</updated>
+    <updated>2023-03-09T11:09:12.680Z</updated>
     <summary type="html"><![CDATA[<h1> Gekijouban Hibike! Euphonium: Todoketai Melody <code>劇場版 響け！ユーフォニアム～届けたいメロディ～</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -795,7 +797,7 @@
     <title type="text">Himouto! Umaruchan S02 干物妹! うまるちゃんRS</title>
     <id>https://ssg.dmbcjx.com/anime/list/27015988.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27015988.html"/>
-    <updated>2023-03-09T03:37:01.379Z</updated>
+    <updated>2023-03-09T11:09:12.682Z</updated>
     <summary type="html"><![CDATA[<h1> Himouto! Umaruchan S02 <code>干物妹! うまるちゃんRS</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -811,7 +813,7 @@
     <title type="text">Yuuki Yuuna wa yuusha de aru: Washio Sumi no shou dai-2-shou &amp;apos;Tamashii&amp;apos; 結城友奈は勇者である -鷲尾須美の章- 第2章 たましい</title>
     <id>https://ssg.dmbcjx.com/anime/list/27025991.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27025991.html"/>
-    <updated>2023-03-09T03:37:01.382Z</updated>
+    <updated>2023-03-09T11:09:12.684Z</updated>
     <summary type="html"><![CDATA[<h1> Yuuki Yuuna wa yuusha de aru: Washio Sumi no shou dai-2-shou 'Tamashii' <code>結城友奈は勇者である -鷲尾須美の章- 第2章 たましい</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -827,7 +829,7 @@
     <title type="text">Eiga Chuunibyou demo koi ga shitai! Take On Me 映画 中二病でも恋がしたい！ -Take On Me-</title>
     <id>https://ssg.dmbcjx.com/anime/list/27052274.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27052274.html"/>
-    <updated>2023-03-09T03:37:01.384Z</updated>
+    <updated>2023-03-09T11:09:12.687Z</updated>
     <summary type="html"><![CDATA[<h1> Eiga Chuunibyou demo koi ga shitai! Take On Me <code>映画 中二病でも恋がしたい！ -Take On Me-</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -843,7 +845,7 @@
     <title type="text">Yuuki Yuuna wa yuusha de aru: Washio Sumi no shou dai-2-shou &amp;apos;Yakusoku&amp;apos; 結城友奈は勇者である -鷲尾須美の章- 第3章 やくそく</title>
     <id>https://ssg.dmbcjx.com/anime/list/27053245.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27053245.html"/>
-    <updated>2023-03-09T03:37:01.388Z</updated>
+    <updated>2023-03-09T11:09:12.690Z</updated>
     <summary type="html"><![CDATA[<h1> Yuuki Yuuna wa yuusha de aru: Washio Sumi no shou dai-2-shou 'Yakusoku' <code>結城友奈は勇者である -鷲尾須美の章- 第3章 やくそく</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -859,7 +861,7 @@
     <title type="text">Gekijoban Hibike! Euphonium: Chikai no Finale 劇場版 響け！ユーフォニアム～誓いのフィナーレ～</title>
     <id>https://ssg.dmbcjx.com/anime/list/27062638.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27062638.html"/>
-    <updated>2023-03-09T03:37:01.391Z</updated>
+    <updated>2023-03-09T11:09:12.692Z</updated>
     <summary type="html"><![CDATA[<h1> Gekijoban Hibike! Euphonium: Chikai no Finale <code>劇場版 響け！ユーフォニアム～誓いのフィナーレ～</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -875,7 +877,7 @@
     <title type="text">Shoujo Shuumatsu Ryokou 少女終末旅行</title>
     <id>https://ssg.dmbcjx.com/anime/list/27081136.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27081136.html"/>
-    <updated>2023-03-09T03:37:01.393Z</updated>
+    <updated>2023-03-09T11:09:12.694Z</updated>
     <summary type="html"><![CDATA[<h1> Shoujo Shuumatsu Ryokou <code>少女終末旅行</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -891,7 +893,7 @@
     <title type="text">Kimi no suizô o tabetai 君の膵臓をたべたい</title>
     <id>https://ssg.dmbcjx.com/anime/list/27107140.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27107140.html"/>
-    <updated>2023-03-09T03:37:01.397Z</updated>
+    <updated>2023-03-09T11:09:12.697Z</updated>
     <summary type="html"><![CDATA[<h1> Kimi no suizô o tabetai <code>君の膵臓をたべたい</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -907,7 +909,7 @@
     <title type="text">Ling Long INCARNATION</title>
     <id>https://ssg.dmbcjx.com/anime/list/27121260.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27121260.html"/>
-    <updated>2023-03-09T03:37:01.399Z</updated>
+    <updated>2023-03-09T11:09:12.699Z</updated>
     <summary type="html"><![CDATA[<h1> Ling Long <code>INCARNATION</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -923,7 +925,7 @@
     <title type="text">Re:Zero kara hajimeru isekai seikatsu S01E26 Re:ゼロから始める異世界生活 Memory Snow</title>
     <id>https://ssg.dmbcjx.com/anime/list/27140066.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27140066.html"/>
-    <updated>2023-03-09T03:37:01.401Z</updated>
+    <updated>2023-03-09T11:09:12.701Z</updated>
     <summary type="html"><![CDATA[<h1> Re:Zero kara hajimeru isekai seikatsu S01E26 <code>Re:ゼロから始める異世界生活 Memory Snow</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -939,7 +941,7 @@
     <title type="text">To aru majutsu no indekkusu S03 とある魔術の禁書目録Ⅲ</title>
     <id>https://ssg.dmbcjx.com/anime/list/27157689.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27157689.html"/>
-    <updated>2023-03-09T03:37:01.403Z</updated>
+    <updated>2023-03-09T11:09:12.702Z</updated>
     <summary type="html"><![CDATA[<h1> To aru majutsu no indekkusu S03 <code>とある魔術の禁書目録Ⅲ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -955,7 +957,7 @@
     <title type="text">To aru kagaku no rêrugan S03 とある科学の超電磁砲T</title>
     <id>https://ssg.dmbcjx.com/anime/list/27160705.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27160705.html"/>
-    <updated>2023-03-09T03:37:01.405Z</updated>
+    <updated>2023-03-09T11:09:12.705Z</updated>
     <summary type="html"><![CDATA[<h1> To aru kagaku no rêrugan S03 <code>とある科学の超電磁砲T</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -971,7 +973,7 @@
     <title type="text">Gekijoban Natsume Yujin-cho: Utsusemi ni Musubu 劇場版 夏目友人帳 ～うつせみに結ぶ～</title>
     <id>https://ssg.dmbcjx.com/anime/list/27166442.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27166442.html"/>
-    <updated>2023-03-09T03:37:01.408Z</updated>
+    <updated>2023-03-09T11:09:12.707Z</updated>
     <summary type="html"><![CDATA[<h1> Gekijoban Natsume Yujin-cho: Utsusemi ni Musubu <code>劇場版 夏目友人帳 ～うつせみに結ぶ～</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -987,7 +989,7 @@
     <title type="text">Re: Zero kara Hajimeru Isekai Seikatsu - The Frozen Bond Re:ゼロから始める異世界生活 氷結の絆</title>
     <id>https://ssg.dmbcjx.com/anime/list/27607434.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/27607434.html"/>
-    <updated>2023-03-09T03:37:01.409Z</updated>
+    <updated>2023-03-09T11:09:12.709Z</updated>
     <summary type="html"><![CDATA[<h1> Re: Zero kara Hajimeru Isekai Seikatsu - The Frozen Bond <code>Re:ゼロから始める異世界生活 氷結の絆</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1003,7 +1005,7 @@
     <title type="text">Hataraku Saibou S01 はたらく細胞</title>
     <id>https://ssg.dmbcjx.com/anime/list/28514091.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/28514091.html"/>
-    <updated>2023-03-09T03:37:01.411Z</updated>
+    <updated>2023-03-09T11:09:12.711Z</updated>
     <summary type="html"><![CDATA[<h1> Hataraku Saibou S01 <code>はたらく細胞</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1019,7 +1021,7 @@
     <title type="text">Seishun Buta Yaro wa Yumemiru Shoujo no Yume wo Minai 青春ブタ野郎はバニーガール先輩の夢を見ない</title>
     <id>https://ssg.dmbcjx.com/anime/list/30166978.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/30166978.html"/>
-    <updated>2023-03-09T03:37:01.413Z</updated>
+    <updated>2023-03-09T11:09:12.721Z</updated>
     <summary type="html"><![CDATA[<h1> Seishun Buta Yaro wa Yumemiru Shoujo no Yume wo Minai <code>青春ブタ野郎はバニーガール先輩の夢を見ない</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1035,7 +1037,7 @@
     <title type="text">Gekijouban Violet Evergarden 劇場版 ヴァイオレット・エヴァーガーデン</title>
     <id>https://ssg.dmbcjx.com/anime/list/30179560.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/30179560.html"/>
-    <updated>2023-03-09T03:37:01.425Z</updated>
+    <updated>2023-03-09T11:09:12.723Z</updated>
     <summary type="html"><![CDATA[<h1> Gekijouban Violet Evergarden <code>劇場版 ヴァイオレット・エヴァーガーデン</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1051,7 +1053,7 @@
     <title type="text">Watashi ni Tenshi ga Maiorita S01 私に天使が舞い降りた！</title>
     <id>https://ssg.dmbcjx.com/anime/list/30249248.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/30249248.html"/>
-    <updated>2023-03-09T03:37:01.428Z</updated>
+    <updated>2023-03-09T11:09:12.725Z</updated>
     <summary type="html"><![CDATA[<h1> Watashi ni Tenshi ga Maiorita S01 <code>私に天使が舞い降りた！</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1067,7 +1069,7 @@
     <title type="text">Hora, Mimi ga Mieteru yo! S01 ほら、耳がみえてるよ！</title>
     <id>https://ssg.dmbcjx.com/anime/list/30299263.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/30299263.html"/>
-    <updated>2023-03-09T03:37:01.430Z</updated>
+    <updated>2023-03-09T11:09:12.728Z</updated>
     <summary type="html"><![CDATA[<h1> Hora, Mimi ga Mieteru yo! S01 <code>ほら、耳がみえてるよ！</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1083,7 +1085,7 @@
     <title type="text">Seishun Buta Yaro wa Bunny Girl-senpai no Yume wo Minai 青春ブタ野郎はゆめみる少女の夢を見ない</title>
     <id>https://ssg.dmbcjx.com/anime/list/30329902.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/30329902.html"/>
-    <updated>2023-03-09T03:37:01.433Z</updated>
+    <updated>2023-03-09T11:09:12.730Z</updated>
     <summary type="html"><![CDATA[<h1> Seishun Buta Yaro wa Bunny Girl-senpai no Yume wo Minai <code>青春ブタ野郎はゆめみる少女の夢を見ない</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1099,7 +1101,7 @@
     <title type="text">Toaru Kagaku no Akuserareta とある科学の一方通行</title>
     <id>https://ssg.dmbcjx.com/anime/list/30337233.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/30337233.html"/>
-    <updated>2023-03-09T03:37:01.436Z</updated>
+    <updated>2023-03-09T11:09:12.731Z</updated>
     <summary type="html"><![CDATA[<h1> Toaru Kagaku no Akuserareta <code>とある科学の一方通行</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1115,7 +1117,7 @@
     <title type="text">Re Zero Kara Hajimeru Isekai Seikatsu - Shin Henshuu-ban Re:ゼロから始める異世界生活 2nd season</title>
     <id>https://ssg.dmbcjx.com/anime/list/30353116.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/30353116.html"/>
-    <updated>2023-03-09T03:37:01.439Z</updated>
+    <updated>2023-03-09T11:09:12.733Z</updated>
     <summary type="html"><![CDATA[<h1> Re Zero Kara Hajimeru Isekai Seikatsu - Shin Henshuu-ban <code>Re:ゼロから始める異世界生活 2nd season</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1131,7 +1133,7 @@
     <title type="text">Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu S01 痛いのは嫌なので防御力に極振りしたいと思います。</title>
     <id>https://ssg.dmbcjx.com/anime/list/30397673.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/30397673.html"/>
-    <updated>2023-03-09T03:37:01.441Z</updated>
+    <updated>2023-03-09T11:09:12.735Z</updated>
     <summary type="html"><![CDATA[<h1> Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu S01 <code>痛いのは嫌なので防御力に極振りしたいと思います。</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1147,7 +1149,7 @@
     <title type="text">Hello World HELLO WORLD</title>
     <id>https://ssg.dmbcjx.com/anime/list/30401194.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/30401194.html"/>
-    <updated>2023-03-09T03:37:01.446Z</updated>
+    <updated>2023-03-09T11:09:12.739Z</updated>
     <summary type="html"><![CDATA[<h1> Hello World <code>HELLO WORLD</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1163,7 +1165,7 @@
     <title type="text">Tenki no ko 天気の子</title>
     <id>https://ssg.dmbcjx.com/anime/list/30402296.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/30402296.html"/>
-    <updated>2023-03-09T03:37:01.450Z</updated>
+    <updated>2023-03-09T11:09:12.742Z</updated>
     <summary type="html"><![CDATA[<h1> Tenki no ko <code>天気の子</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1179,7 +1181,7 @@
     <title type="text">Hora, Mimi ga Mieteru yo! S02 ほら、耳がみえてるよ！第2期</title>
     <id>https://ssg.dmbcjx.com/anime/list/30459043.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/30459043.html"/>
-    <updated>2023-03-09T03:37:01.452Z</updated>
+    <updated>2023-03-09T11:09:12.744Z</updated>
     <summary type="html"><![CDATA[<h1> Hora, Mimi ga Mieteru yo! S02 <code>ほら、耳がみえてるよ！第2期</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1195,7 +1197,7 @@
     <title type="text">Another World: Tomoyo Chapter CLANNAD もうひとつの世界 智代編</title>
     <id>https://ssg.dmbcjx.com/anime/list/3160947.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/3160947.html"/>
-    <updated>2023-03-09T03:37:01.455Z</updated>
+    <updated>2023-03-09T11:09:12.745Z</updated>
     <summary type="html"><![CDATA[<h1> Another World: Tomoyo Chapter <code>CLANNAD もうひとつの世界 智代編</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1211,7 +1213,7 @@
     <title type="text">Clannad: After Story クラナド アフターストーリー</title>
     <id>https://ssg.dmbcjx.com/anime/list/3230813.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/3230813.html"/>
-    <updated>2023-03-09T03:37:01.458Z</updated>
+    <updated>2023-03-09T11:09:12.748Z</updated>
     <summary type="html"><![CDATA[<h1> Clannad: After Story <code>クラナド アフターストーリー</code></h1>
 <div class="hint-container warning">
 <p class="hint-container-title">Note</p>
@@ -1235,7 +1237,7 @@
     <title type="text">To aru majutsu no indekkusu S01 とある魔術の禁書目録</title>
     <id>https://ssg.dmbcjx.com/anime/list/3251306.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/3251306.html"/>
-    <updated>2023-03-09T03:37:01.461Z</updated>
+    <updated>2023-03-09T11:09:12.749Z</updated>
     <summary type="html"><![CDATA[<h1> To aru majutsu no indekkusu S01 <code>とある魔術の禁書目録</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1251,7 +1253,7 @@
     <title type="text">Hataraku Saibou S02 はたらく細胞!!</title>
     <id>https://ssg.dmbcjx.com/anime/list/33377727.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/33377727.html"/>
-    <updated>2023-03-09T03:37:01.463Z</updated>
+    <updated>2023-03-09T11:09:12.751Z</updated>
     <summary type="html"><![CDATA[<h1> Hataraku Saibou S02 <code>はたらく細胞!!</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1267,7 +1269,7 @@
     <title type="text">Tonikaku Kawaii S01 トニカクカワイイ</title>
     <id>https://ssg.dmbcjx.com/anime/list/33377767.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/33377767.html"/>
-    <updated>2023-03-09T03:37:01.465Z</updated>
+    <updated>2023-03-09T11:09:12.754Z</updated>
     <summary type="html"><![CDATA[<h1> Tonikaku Kawaii S01 <code>トニカクカワイイ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1283,7 +1285,7 @@
     <title type="text">Vaioretto evâgâden gaiden: Eien to jidou shuki ningyou ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -</title>
     <id>https://ssg.dmbcjx.com/anime/list/33424345.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/33424345.html"/>
-    <updated>2023-03-09T03:37:01.468Z</updated>
+    <updated>2023-03-09T11:09:12.756Z</updated>
     <summary type="html"><![CDATA[<h1> Vaioretto evâgâden gaiden: Eien to jidou shuki ningyou <code>ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1299,7 +1301,7 @@
     <title type="text">Jing shuang cheng feng qi pian 镜·双城 序章</title>
     <id>https://ssg.dmbcjx.com/anime/list/34437060.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/34437060.html"/>
-    <updated>2023-03-09T03:37:01.470Z</updated>
+    <updated>2023-03-09T11:09:12.758Z</updated>
     <summary type="html"><![CDATA[<h1> Jing shuang cheng feng qi pian <code>镜·双城 序章</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1315,7 +1317,7 @@
     <title type="text">Mahouka koukou no rettousei S02 魔法科高校の劣等生 来訪者編</title>
     <id>https://ssg.dmbcjx.com/anime/list/34852270.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/34852270.html"/>
-    <updated>2023-03-09T03:37:01.473Z</updated>
+    <updated>2023-03-09T11:09:12.759Z</updated>
     <summary type="html"><![CDATA[<h1> Mahouka koukou no rettousei S02 <code>魔法科高校の劣等生 来訪者編</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1331,7 +1333,7 @@
     <title type="text">Majo no Tabitabi S01 魔女の旅々</title>
     <id>https://ssg.dmbcjx.com/anime/list/34867999.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/34867999.html"/>
-    <updated>2023-03-09T03:37:01.476Z</updated>
+    <updated>2023-03-09T11:09:12.761Z</updated>
     <summary type="html"><![CDATA[<h1> Majo no Tabitabi S01 <code>魔女の旅々</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1347,7 +1349,7 @@
     <title type="text">Another World HELLO WORLD オリジナルスピンオフアニメ ANOTHER WORLD</title>
     <id>https://ssg.dmbcjx.com/anime/list/34906737.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/34906737.html"/>
-    <updated>2023-03-09T03:37:01.478Z</updated>
+    <updated>2023-03-09T11:09:12.763Z</updated>
     <summary type="html"><![CDATA[<h1> Another World <code>HELLO WORLD オリジナルスピンオフアニメ ANOTHER WORLD</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1363,7 +1365,7 @@
     <title type="text">Re:Zero kara hajimeru isekai seikatsu Re:ゼロから始める異世界生活 新編集版</title>
     <id>https://ssg.dmbcjx.com/anime/list/34937942.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/34937942.html"/>
-    <updated>2023-03-09T03:37:01.481Z</updated>
+    <updated>2023-03-09T11:09:12.765Z</updated>
     <summary type="html"><![CDATA[<h1> Re:Zero kara hajimeru isekai seikatsu <code>Re:ゼロから始める異世界生活 新編集版</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1379,7 +1381,7 @@
     <title type="text">Fumetsu no Anata e 不滅のあなたへ</title>
     <id>https://ssg.dmbcjx.com/anime/list/34941837.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/34941837.html"/>
-    <updated>2023-03-09T03:37:01.483Z</updated>
+    <updated>2023-03-09T11:09:12.767Z</updated>
     <summary type="html"><![CDATA[<h1> Fumetsu no Anata e <code>不滅のあなたへ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1395,7 +1397,7 @@
     <title type="text">Hataraku Saibo Black はたらく細胞BLACK</title>
     <id>https://ssg.dmbcjx.com/anime/list/35041936.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/35041936.html"/>
-    <updated>2023-03-09T03:37:01.485Z</updated>
+    <updated>2023-03-09T11:09:12.770Z</updated>
     <summary type="html"><![CDATA[<h1> Hataraku Saibo Black <code>はたらく細胞BLACK</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1411,7 +1413,7 @@
     <title type="text">Yuuki Yuuna wa yuusha de aru S03 結城友奈は勇者である 大満開の章</title>
     <id>https://ssg.dmbcjx.com/anime/list/35162855.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/35162855.html"/>
-    <updated>2023-03-09T03:37:01.487Z</updated>
+    <updated>2023-03-09T11:09:12.771Z</updated>
     <summary type="html"><![CDATA[<h1> Yuuki Yuuna wa yuusha de aru S03 <code>結城友奈は勇者である 大満開の章</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1427,7 +1429,7 @@
     <title type="text">Horimiya ホリミヤ</title>
     <id>https://ssg.dmbcjx.com/anime/list/35205803.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/35205803.html"/>
-    <updated>2023-03-09T03:37:01.489Z</updated>
+    <updated>2023-03-09T11:09:12.773Z</updated>
     <summary type="html"><![CDATA[<h1> Horimiya <code>ホリミヤ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1443,7 +1445,7 @@
     <title type="text">SPY×FAMILY S01 SPY×FAMILY</title>
     <id>https://ssg.dmbcjx.com/anime/list/35258427.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/35258427.html"/>
-    <updated>2023-03-09T03:37:01.492Z</updated>
+    <updated>2023-03-09T11:09:12.775Z</updated>
     <summary type="html"><![CDATA[<h1> SPY×FAMILY S01 <code>SPY×FAMILY</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1459,7 +1461,7 @@
     <title type="text">Tonikaku Kawaii S01E13 トニカクカワイイ OVA</title>
     <id>https://ssg.dmbcjx.com/anime/list/35296066.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/35296066.html"/>
-    <updated>2023-03-09T03:37:01.493Z</updated>
+    <updated>2023-03-09T11:09:12.777Z</updated>
     <summary type="html"><![CDATA[<h1> Tonikaku Kawaii S01E13 <code>トニカクカワイイ OVA</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1475,7 +1477,7 @@
     <title type="text">Gekijouban Mahouka koukou no rettousei: Tsuioku hen 魔法科高校の劣等生 追憶編</title>
     <id>https://ssg.dmbcjx.com/anime/list/35382655.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/35382655.html"/>
-    <updated>2023-03-09T03:37:01.495Z</updated>
+    <updated>2023-03-09T11:09:12.779Z</updated>
     <summary type="html"><![CDATA[<h1> Gekijouban Mahouka koukou no rettousei: Tsuioku hen <code>魔法科高校の劣等生 追憶編</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1491,7 +1493,7 @@
     <title type="text">Jing shuang cheng 镜·双城 本传</title>
     <id>https://ssg.dmbcjx.com/anime/list/35642666.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/35642666.html"/>
-    <updated>2023-03-09T03:37:01.497Z</updated>
+    <updated>2023-03-09T11:09:12.780Z</updated>
     <summary type="html"><![CDATA[<h1> Jing shuang cheng <code>镜·双城 本传</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1507,7 +1509,7 @@
     <title type="text">Lycoris Recoil リコリス・リコイル</title>
     <id>https://ssg.dmbcjx.com/anime/list/35722670.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/35722670.html"/>
-    <updated>2023-03-09T03:37:01.500Z</updated>
+    <updated>2023-03-09T11:09:12.783Z</updated>
     <summary type="html"><![CDATA[<h1> Lycoris Recoil <code>リコリス・リコイル</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1523,7 +1525,7 @@
     <title type="text">SPY×FAMILY S02 SPY×FAMILY 第2クール</title>
     <id>https://ssg.dmbcjx.com/anime/list/35724582.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/35724582.html"/>
-    <updated>2023-03-09T03:37:01.501Z</updated>
+    <updated>2023-03-09T11:09:12.785Z</updated>
     <summary type="html"><![CDATA[<h1> SPY×FAMILY S02 <code>SPY×FAMILY 第2クール</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1539,7 +1541,7 @@
     <title type="text">Another World: Kyou Chapter CLANNAD ～AFTER STORY～ もうひとつの世界 杏編</title>
     <id>https://ssg.dmbcjx.com/anime/list/3927686.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/3927686.html"/>
-    <updated>2023-03-09T03:37:01.503Z</updated>
+    <updated>2023-03-09T11:09:12.787Z</updated>
     <summary type="html"><![CDATA[<h1> Another World: Kyou Chapter <code>CLANNAD ～AFTER STORY～ もうひとつの世界 杏編</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1555,7 +1557,7 @@
     <title type="text">To aru kagaku no rêrugan S01 とある科学の超電磁砲</title>
     <id>https://ssg.dmbcjx.com/anime/list/4067827.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/4067827.html"/>
-    <updated>2023-03-09T03:37:01.505Z</updated>
+    <updated>2023-03-09T11:09:12.795Z</updated>
     <summary type="html"><![CDATA[<h1> To aru kagaku no rêrugan S01 <code>とある科学の超電磁砲</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1571,7 +1573,7 @@
     <title type="text">To aru majutsu no indekkusu S02 とある魔術の禁書目録Ⅱ</title>
     <id>https://ssg.dmbcjx.com/anime/list/4848113.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/4848113.html"/>
-    <updated>2023-03-09T03:37:01.515Z</updated>
+    <updated>2023-03-09T11:09:12.797Z</updated>
     <summary type="html"><![CDATA[<h1> To aru majutsu no indekkusu S02 <code>とある魔術の禁書目録Ⅱ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1587,7 +1589,7 @@
     <title type="text">Yosuga no sora ヨスガノソラ</title>
     <id>https://ssg.dmbcjx.com/anime/list/4848114.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/4848114.html"/>
-    <updated>2023-03-09T03:37:01.517Z</updated>
+    <updated>2023-03-09T11:09:12.800Z</updated>
     <summary type="html"><![CDATA[<h1> Yosuga no sora <code>ヨスガノソラ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
@@ -1603,7 +1605,7 @@
     <title type="text">Mahô shôjo Madoka magika: Puella Magi Madoka Magica 魔法少女まどか☆マギカ</title>
     <id>https://ssg.dmbcjx.com/anime/list/5349275.html</id>
     <link href="https://ssg.dmbcjx.com/anime/list/5349275.html"/>
-    <updated>2023-03-09T03:37:01.520Z</updated>
+    <updated>2023-03-09T11:09:12.802Z</updated>
     <summary type="html"><![CDATA[<h1> Mahô shôjo Madoka magika: Puella Magi Madoka Magica <code>魔法少女まどか☆マギカ</code></h1>
 <h2> Info</h2>
 <h3> Poster</h3>
